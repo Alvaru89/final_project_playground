@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbrli:xbrl xmlns:xbrli="http://www.xbrl.org/2003/instance"
+            xmlns:iic-fim="http://www.cnmv.es/iic/fim/1-2009/2009-03-31"
+            xmlns:iic-ges="http://www.cnmv.es/iic/ges/1-2009/2009-03-31"
+            xmlns:dgi-lc-es="http://www.xbrl.org.es/es/2008/dgi/gp/lc-es/2008-01-30"
+            xmlns:dgi-est-gen="http://www.xbrl.org.es/es/2008/dgi/gp/est-gen/2008-01-30"
+            xmlns:xbrll="http://www.xbrl.org/2003/linkbase"
+            xmlns:iic-com="http://www.cnmv.es/iic/com/1-2009/2009-03-31"
+            xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:dgi-lc-int="http://www.xbrl.org.es/es/2008/dgi/gp/lc-int/2008-01-30"
+            xmlns:iic-com-fon="http://www.cnmv.es/iic/mep/1-2009/2009-03-31"
+            xmlns:dgi-types="http://www.xbrl.org.es/es/2008/dgi/gp/types/2008-01-30"
+            xmlns:iso4217="http://www.xbrl.org/2003/iso4217">
+    <xbrll:schemaRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+                    xlink:href="iic-fim-2009-03-31.xsd"
+                    xlink:type="simple"/>
+    <xbrli:unit id="pure">
+        <xbrli:measure>xbrli:pure</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="EUR">
+        <xbrli:measure>iso4217:EUR</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:context id="FIM_S22020_V-66247677_da">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.cnmv.es/xbrl/iic/V-66247677">1 KESSLER GLOBAL FI</xbrli:identifier>
+            <xbrli:segment>
+                <iic-com:version>1.0.0</iic-com:version>
+            </xbrli:segment>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:startDate>2020-07-01</xbrli:startDate>
+            <xbrli:endDate>2020-12-31</xbrli:endDate>
+        </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="FIM_S22020_V-66247677_dpp">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.cnmv.es/xbrl/iic/V-66247677">1 KESSLER GLOBAL FI</xbrli:identifier>
+            <xbrli:segment>
+                <iic-com:version>1.0.0</iic-com:version>
+            </xbrli:segment>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:startDate>2020-01-01</xbrli:startDate>
+            <xbrli:endDate>2020-06-30</xbrli:endDate>
+        </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="FIM_S22020_V-66247677_daa">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.cnmv.es/xbrl/iic/V-66247677">1 KESSLER GLOBAL FI</xbrli:identifier>
+            <xbrli:segment>
+                <iic-com:version>1.0.0</iic-com:version>
+            </xbrli:segment>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:startDate>2020-01-01</xbrli:startDate>
+            <xbrli:endDate>2020-12-31</xbrli:endDate>
+        </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="FIM_S22020_V-66247677_dpy">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.cnmv.es/xbrl/iic/V-66247677">1 KESSLER GLOBAL FI</xbrli:identifier>
+            <xbrli:segment>
+                <iic-com:version>1.0.0</iic-com:version>
+            </xbrli:segment>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:startDate>2019-01-01</xbrli:startDate>
+            <xbrli:endDate>2019-12-31</xbrli:endDate>
+        </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="FIM_S22020_V-66247677_daq">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.cnmv.es/xbrl/iic/V-66247677">1 KESSLER GLOBAL FI</xbrli:identifier>
+            <xbrli:segment>
+                <iic-com:version>1.0.0</iic-com:version>
+            </xbrli:segment>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:startDate>2020-10-01</xbrli:startDate>
+            <xbrli:endDate>2020-12-31</xbrli:endDate>
+        </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="FIM_S22020_V-66247677_dpq">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.cnmv.es/xbrl/iic/V-66247677">1 KESSLER GLOBAL FI</xbrli:identifier>
+            <xbrli:segment>
+                <iic-com:version>1.0.0</iic-com:version>
+            </xbrli:segment>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:startDate>2020-07-01</xbrli:startDate>
+            <xbrli:endDate>2020-09-30</xbrli:endDate>
+        </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="FIM_S22020_V-66247677_dpq2">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.cnmv.es/xbrl/iic/V-66247677">1 KESSLER GLOBAL FI</xbrli:identifier>
+            <xbrli:segment>
+                <iic-com:version>1.0.0</iic-com:version>
+            </xbrli:segment>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:startDate>2020-04-01</xbrli:startDate>
+            <xbrli:endDate>2020-06-30</xbrli:endDate>
+        </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="FIM_S22020_V-66247677_dpq3">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.cnmv.es/xbrl/iic/V-66247677">1 KESSLER GLOBAL FI</xbrli:identifier>
+            <xbrli:segment>
+                <iic-com:version>1.0.0</iic-com:version>
+            </xbrli:segment>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:startDate>2020-01-01</xbrli:startDate>
+            <xbrli:endDate>2020-03-31</xbrli:endDate>
+        </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="FIM_S22020_V-66247677_dpy2">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.cnmv.es/xbrl/iic/V-66247677">1 KESSLER GLOBAL FI</xbrli:identifier>
+            <xbrli:segment>
+                <iic-com:version>1.0.0</iic-com:version>
+            </xbrli:segment>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:startDate>2018-01-01</xbrli:startDate>
+            <xbrli:endDate>2018-12-31</xbrli:endDate>
+        </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="FIM_S22020_V-66247677_dpy3">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.cnmv.es/xbrl/iic/V-66247677">1 KESSLER GLOBAL FI</xbrli:identifier>
+            <xbrli:segment>
+                <iic-com:version>1.0.0</iic-com:version>
+            </xbrli:segment>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:startDate>2017-01-01</xbrli:startDate>
+            <xbrli:endDate>2017-12-31</xbrli:endDate>
+        </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="FIM_S22020_V-66247677_dpy5">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.cnmv.es/xbrl/iic/V-66247677">1 KESSLER GLOBAL FI</xbrli:identifier>
+            <xbrli:segment>
+                <iic-com:version>1.0.0</iic-com:version>
+            </xbrli:segment>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:startDate>2015-01-01</xbrli:startDate>
+            <xbrli:endDate>2015-12-31</xbrli:endDate>
+        </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="FIM_S22020_V-66247677_dly3">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.cnmv.es/xbrl/iic/V-66247677">1 KESSLER GLOBAL FI</xbrli:identifier>
+            <xbrli:segment>
+                <iic-com:version>1.0.0</iic-com:version>
+            </xbrli:segment>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:startDate>2017-01-01</xbrli:startDate>
+            <xbrli:endDate>2019-12-31</xbrli:endDate>
+        </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="FIM_S22020_V-66247677_dly5">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.cnmv.es/xbrl/iic/V-66247677">1 KESSLER GLOBAL FI</xbrli:identifier>
+            <xbrli:segment>
+                <iic-com:version>1.0.0</iic-com:version>
+            </xbrli:segment>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:startDate>2015-01-01</xbrli:startDate>
+            <xbrli:endDate>2019-12-31</xbrli:endDate>
+        </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="FIM_S22020_V-66247677_ia">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.cnmv.es/xbrl/iic/V-66247677">1 KESSLER GLOBAL FI</xbrli:identifier>
+            <xbrli:segment>
+                <iic-com:version>1.0.0</iic-com:version>
+            </xbrli:segment>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:instant>2020-12-31</xbrli:instant>
+        </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="FIM_S22020_V-66247677_ipp">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.cnmv.es/xbrl/iic/V-66247677">1 KESSLER GLOBAL FI</xbrli:identifier>
+            <xbrli:segment>
+                <iic-com:version>1.0.0</iic-com:version>
+            </xbrli:segment>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:instant>2020-06-30</xbrli:instant>
+        </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="FIM_S22020_V-66247677_ipy">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.cnmv.es/xbrl/iic/V-66247677">1 KESSLER GLOBAL FI</xbrli:identifier>
+            <xbrli:segment>
+                <iic-com:version>1.0.0</iic-com:version>
+            </xbrli:segment>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:instant>2019-12-31</xbrli:instant>
+        </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="FIM_S22020_V-66247677_ipy2">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.cnmv.es/xbrl/iic/V-66247677">1 KESSLER GLOBAL FI</xbrli:identifier>
+            <xbrli:segment>
+                <iic-com:version>1.0.0</iic-com:version>
+            </xbrli:segment>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:instant>2018-12-31</xbrli:instant>
+        </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="FIM_S22020_V-66247677_ipy3">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.cnmv.es/xbrl/iic/V-66247677">1 KESSLER GLOBAL FI</xbrli:identifier>
+            <xbrli:segment>
+                <iic-com:version>1.0.0</iic-com:version>
+            </xbrli:segment>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:instant>2017-12-31</xbrli:instant>
+        </xbrli:period>
+    </xbrli:context>
+    <iic-fim:InformeFIM>
+        <iic-fim:InformacionGeneralFIM>
+            <iic-com-fon:DenominacionFondo contextRef="FIM_S22020_V-66247677_ia">1 KESSLER GLOBAL FI</iic-com-fon:DenominacionFondo>
+            <iic-com:DescripcionGeneral>
+                <iic-com:RegistroCNMV contextRef="FIM_S22020_V-66247677_ia" decimals="0" unitRef="pure">4720</iic-com:RegistroCNMV>
+                <iic-com:XCode_TipoInforme_02 contextRef="FIM_S22020_V-66247677_ia">02</iic-com:XCode_TipoInforme_02>
+                <iic-com:XCode_PeriodoInforme_04 contextRef="FIM_S22020_V-66247677_ia">04</iic-com:XCode_PeriodoInforme_04>
+                <iic-com:AnoInforme contextRef="FIM_S22020_V-66247677_ia">2020</iic-com:AnoInforme>
+                <dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_S22020_V-66247677_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+            </iic-com:DescripcionGeneral>
+            <iic-com:RatingDepositario contextRef="FIM_S22020_V-66247677_ia">A</iic-com:RatingDepositario>
+            <iic-com-fon:FondoCompartimentos contextRef="FIM_S22020_V-66247677_ia">false</iic-com-fon:FondoCompartimentos>
+        </iic-fim:InformacionGeneralFIM>
+        <iic-com:ConsultaCarteraInversiones>
+            <iic-com:DireccionInforme contextRef="FIM_S22020_V-66247677_ia">(ES)GVC GAESCO GESTION, SGIIC, S.A. Doctor Ferran 3-5 08034 Barcelona Barcelona</iic-com:DireccionInforme>
+            <dgi-est-gen:CommunicationWays>
+                <dgi-est-gen:CommunicationType>
+                    <dgi-lc-int:Xcode_UN3155.EM contextRef="FIM_S22020_V-66247677_da">EM</dgi-lc-int:Xcode_UN3155.EM>
+                </dgi-est-gen:CommunicationType>
+                <dgi-est-gen:CommunicationValue contextRef="FIM_S22020_V-66247677_da">info@gvcgaesco.es</dgi-est-gen:CommunicationValue>
+            </dgi-est-gen:CommunicationWays>
+            <iic-com:DirWebInforme contextRef="FIM_S22020_V-66247677_ia">www.fondos.gvcgaesco.es</iic-com:DirWebInforme>
+        </iic-com:ConsultaCarteraInversiones>
+        <iic-com:ConsultaGestora>
+            <dgi-est-gen:Address>
+                <dgi-est-gen:AddressFormat>
+                    <dgi-lc-int:Xcode_UN3477.05 contextRef="FIM_S22020_V-66247677_da">05</dgi-lc-int:Xcode_UN3477.05>
+                </dgi-est-gen:AddressFormat>
+                <dgi-est-gen:AddressLine contextRef="FIM_S22020_V-66247677_da">Doctor Ferran 3-5 08034 Barcelona Barcelona tel.93 366 27 27</dgi-est-gen:AddressLine>
+            </dgi-est-gen:Address>
+            <dgi-est-gen:CommunicationWays>
+                <dgi-est-gen:CommunicationType>
+                    <dgi-lc-int:Xcode_UN3155.EM contextRef="FIM_S22020_V-66247677_da">EM</dgi-lc-int:Xcode_UN3155.EM>
+                </dgi-est-gen:CommunicationType>
+                <dgi-est-gen:CommunicationValue contextRef="FIM_S22020_V-66247677_da">info@gvcgaesco.es</dgi-est-gen:CommunicationValue>
+            </dgi-est-gen:CommunicationWays>
+        </iic-com:ConsultaGestora>
+        <iic-fim:DatosFondoCompartimentoFIM>
+            <iic-com-fon:FechaRegistroFondo contextRef="FIM_S22020_V-66247677_ia">2014-03-07</iic-com-fon:FechaRegistroFondo>
+            <iic-fim:PoliticaDivisaFIM>
+                <iic-fim:CategoriaFIM>
+                    <iic-fim:XCode_TipoFIM_07 contextRef="FIM_S22020_V-66247677_ia">07</iic-fim:XCode_TipoFIM_07>
+                    <iic-com:XCode_VocacionInversora_15 contextRef="FIM_S22020_V-66247677_ia">15</iic-com:XCode_VocacionInversora_15>
+                    <iic-com:PerfilRiesgo contextRef="FIM_S22020_V-66247677_ia">7 (En una escala del 1 al 7)</iic-com:PerfilRiesgo>
+                </iic-fim:CategoriaFIM>
+                <iic-com:PoliticaInversion contextRef="FIM_S22020_V-66247677_ia">El Fondo invertirá más del 50% del patrimonio en IIC financieras aptas, armonizadas o no armonizadas (máximo 30% estas últimas), de gestoras nacionales o internacionales, pertenecientes o no al mismo grupo de la gestora, con un máximo del 20% en una misma IIC. Aunque la gestora pueda invertir hasta un 100% en IIC de un mismo Grupo, dicho porcentaje no superará el 25%, salvo para IIC del Grupo de la gestora que será como máximo del 10%.  El resto del patrimonio no invertido en IIC se invertirá directamente en valores de renta fija, de renta variable y ETF, hasta un máximo conjunto del 49%, de emisores públicos o privados de países miembros de la OCDE.
+</iic-com:PoliticaInversion>
+                <iic-com:OperativaDerivados contextRef="FIM_S22020_V-66247677_ia">Podrá invertir en instrumentos derivados negociados en mercados organizados y O.T.C. con finalidad de cobertura e inversión.
+La metodología aplicada para calcular la exposición total al riesgo es la metodología del compromiso. 
+Una información más detallada sobre la política de inversión del fondo se puede encontrar en su folleto informativo.
+</iic-com:OperativaDerivados>
+                <iic-com:XCode_MetodologiaMedicionRiesgoMercado_01 contextRef="FIM_S22020_V-66247677_ia">01</iic-com:XCode_MetodologiaMedicionRiesgoMercado_01>
+            </iic-fim:PoliticaDivisaFIM>
+            <iic-fim:DatosEconomicosFIM>
+                <iic-com:IndiceRotacionCartera contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-com:IndiceRotacionCartera>
+                <iic-com:IndiceRotacionCartera contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">0.75</iic-com:IndiceRotacionCartera>
+                <iic-com:IndiceRotacionCartera contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">0.74</iic-com:IndiceRotacionCartera>
+                <iic-com:IndiceRotacionCartera contextRef="FIM_S22020_V-66247677_dpy" decimals="2" unitRef="pure">0.00</iic-com:IndiceRotacionCartera>
+                <iic-com:RentabilidadMediaLiquidez contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">-0.4</iic-com:RentabilidadMediaLiquidez>
+                <iic-com:RentabilidadMediaLiquidez contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">-0.4</iic-com:RentabilidadMediaLiquidez>
+                <iic-com:RentabilidadMediaLiquidez contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">-0.4</iic-com:RentabilidadMediaLiquidez>
+                <iic-com:RentabilidadMediaLiquidez contextRef="FIM_S22020_V-66247677_dpy" decimals="2" unitRef="pure">-0.4</iic-com:RentabilidadMediaLiquidez>
+                <iic-fim:DatosClaseFIM>
+                    <dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_S22020_V-66247677_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+                    <iic-com-fon:DatosGeneralesClase>
+                        <iic-com-fon:NumeroParticipaciones contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="pure">427493.21</iic-com-fon:NumeroParticipaciones>
+                        <iic-com-fon:NumeroParticipaciones contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="pure">439065.13</iic-com-fon:NumeroParticipaciones>
+                        <iic-com-fon:NumeroParticipes contextRef="FIM_S22020_V-66247677_ia" decimals="0" unitRef="pure">107</iic-com-fon:NumeroParticipes>
+                        <iic-com-fon:NumeroParticipes contextRef="FIM_S22020_V-66247677_ipp" decimals="0" unitRef="pure">87</iic-com-fon:NumeroParticipes>
+                        <iic-com-fon:BeneficioBrutoParticipacion contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="EUR">0</iic-com-fon:BeneficioBrutoParticipacion>
+                        <iic-com-fon:BeneficioBrutoParticipacion contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="EUR">0</iic-com-fon:BeneficioBrutoParticipacion>
+                        <iic-com:DistribuyeDividendos contextRef="FIM_S22020_V-66247677_da">false</iic-com:DistribuyeDividendos>
+                        <iic-com:InversionMinimaDescripcion contextRef="FIM_S22020_V-66247677_ia"/>
+                        <iic-com:Patrimonio contextRef="FIM_S22020_V-66247677_ia" decimals="0" unitRef="EUR">2951126</iic-com:Patrimonio>
+                        <iic-com:Patrimonio contextRef="FIM_S22020_V-66247677_ipy" decimals="0" unitRef="EUR">3453739</iic-com:Patrimonio>
+                        <iic-com:Patrimonio contextRef="FIM_S22020_V-66247677_ipy2" decimals="0" unitRef="EUR">8605285</iic-com:Patrimonio>
+                        <iic-com:Patrimonio contextRef="FIM_S22020_V-66247677_ipy3" decimals="0" unitRef="EUR">9198746</iic-com:Patrimonio>
+                        <iic-com:ValorLiquidativo contextRef="FIM_S22020_V-66247677_ia" decimals="4" unitRef="EUR">6.9033</iic-com:ValorLiquidativo>
+                        <iic-com:ValorLiquidativo contextRef="FIM_S22020_V-66247677_ipy" decimals="4" unitRef="EUR">7.9879</iic-com:ValorLiquidativo>
+                        <iic-com:ValorLiquidativo contextRef="FIM_S22020_V-66247677_ipy2" decimals="4" unitRef="EUR">9.2363</iic-com:ValorLiquidativo>
+                        <iic-com:ValorLiquidativo contextRef="FIM_S22020_V-66247677_ipy3" decimals="4" unitRef="EUR">9.3838</iic-com:ValorLiquidativo>
+                        <iic-com-fon:ComisionesAplicadas>
+                            <iic-com-fon:ComisionGestion>
+
+                                <iic-com:ComisionGestionCobradaPatrimonio contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.50</iic-com:ComisionGestionCobradaPatrimonio>
+
+                                <iic-com:ComisionGestionCobradaPatrimonio contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">1.00</iic-com:ComisionGestionCobradaPatrimonio>
+
+                                <iic-com:ComisionGestionCobradaResultados contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0</iic-com:ComisionGestionCobradaResultados>
+
+                                <iic-com:ComisionGestionCobradaResultados contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">0</iic-com:ComisionGestionCobradaResultados>
+                                <iic-com-fon:ComisionGestionCobrada contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.50</iic-com-fon:ComisionGestionCobrada>
+                                <iic-com-fon:ComisionGestionCobrada contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">1.00</iic-com-fon:ComisionGestionCobrada>
+
+                                <iic-com-fon:XCode_BaseCalculoComisionGestion_01 contextRef="FIM_S22020_V-66247677_daa">01</iic-com-fon:XCode_BaseCalculoComisionGestion_01>
+                            </iic-com-fon:ComisionGestion>
+                            <iic-com-fon:ComisionDepositario>
+                                <iic-com-fon:ComisionDepositarioCobrada contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.04</iic-com-fon:ComisionDepositarioCobrada>
+                                <iic-com-fon:ComisionDepositarioCobrada contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">0.08</iic-com-fon:ComisionDepositarioCobrada>
+                            </iic-com-fon:ComisionDepositario>
+                        </iic-com-fon:ComisionesAplicadas>
+                    </iic-com-fon:DatosGeneralesClase>
+                    <iic-fim:RentabilidadClaseFIM>
+                        <iic-com:RentabilidadIIC contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">-13.58</iic-com:RentabilidadIIC>
+                        <iic-com:RentabilidadIIC contextRef="FIM_S22020_V-66247677_daq" decimals="2" unitRef="pure">-10.30</iic-com:RentabilidadIIC>
+                        <iic-com:RentabilidadIIC contextRef="FIM_S22020_V-66247677_dpq" decimals="2" unitRef="pure">-7.09</iic-com:RentabilidadIIC>
+                        <iic-com:RentabilidadIIC contextRef="FIM_S22020_V-66247677_dpq2" decimals="2" unitRef="pure">-6.97</iic-com:RentabilidadIIC>
+                        <iic-com:RentabilidadIIC contextRef="FIM_S22020_V-66247677_dpq3" decimals="2" unitRef="pure">11.47</iic-com:RentabilidadIIC>
+                        <iic-com:RentabilidadIIC contextRef="FIM_S22020_V-66247677_dpy" decimals="2" unitRef="pure">-13.52</iic-com:RentabilidadIIC>
+                        <iic-com:RentabilidadIIC contextRef="FIM_S22020_V-66247677_dpy2" decimals="2" unitRef="pure">-1.57</iic-com:RentabilidadIIC>
+                        <iic-com:RentabilidadIIC contextRef="FIM_S22020_V-66247677_dpy3" decimals="2" unitRef="pure">-5.61</iic-com:RentabilidadIIC>
+                        <iic-com:RentabilidadIIC contextRef="FIM_S22020_V-66247677_dpy5" decimals="2" unitRef="pure">0.50</iic-com:RentabilidadIIC>
+                    </iic-fim:RentabilidadClaseFIM>
+                    <iic-com-fon:RentabilidadExtremaClase>
+                        <iic-com-fon:RentabilidadMinimaValor contextRef="FIM_S22020_V-66247677_daq" decimals="2" unitRef="pure">-3.33</iic-com-fon:RentabilidadMinimaValor>
+                        <iic-com-fon:RentabilidadMinimaValor contextRef="FIM_S22020_V-66247677_dpy" decimals="2" unitRef="pure">-3.33</iic-com-fon:RentabilidadMinimaValor>
+                        <iic-com-fon:RentabilidadMinimaValor contextRef="FIM_S22020_V-66247677_dly3" decimals="2" unitRef="pure">-1.50</iic-com-fon:RentabilidadMinimaValor>
+                        <iic-com-fon:RentabilidadMinimaFecha contextRef="FIM_S22020_V-66247677_daq">2020-11-04</iic-com-fon:RentabilidadMinimaFecha>
+                        <iic-com-fon:RentabilidadMinimaFecha contextRef="FIM_S22020_V-66247677_dpy">2020-11-04</iic-com-fon:RentabilidadMinimaFecha>
+                        <iic-com-fon:RentabilidadMinimaFecha contextRef="FIM_S22020_V-66247677_dly3">2019-08-08</iic-com-fon:RentabilidadMinimaFecha>
+                        <iic-com-fon:RentabilidadMaximaValor contextRef="FIM_S22020_V-66247677_daq" decimals="2" unitRef="pure">3.11</iic-com-fon:RentabilidadMaximaValor>
+                        <iic-com-fon:RentabilidadMaximaValor contextRef="FIM_S22020_V-66247677_dpy" decimals="2" unitRef="pure">4.54</iic-com-fon:RentabilidadMaximaValor>
+                        <iic-com-fon:RentabilidadMaximaValor contextRef="FIM_S22020_V-66247677_dly3" decimals="2" unitRef="pure">2.80</iic-com-fon:RentabilidadMaximaValor>
+                        <iic-com-fon:RentabilidadMaximaFecha contextRef="FIM_S22020_V-66247677_daq">2020-10-28</iic-com-fon:RentabilidadMaximaFecha>
+                        <iic-com-fon:RentabilidadMaximaFecha contextRef="FIM_S22020_V-66247677_dpy">2020-06-11</iic-com-fon:RentabilidadMaximaFecha>
+                        <iic-com-fon:RentabilidadMaximaFecha contextRef="FIM_S22020_V-66247677_dly3">2019-08-05</iic-com-fon:RentabilidadMaximaFecha>
+                    </iic-com-fon:RentabilidadExtremaClase>
+                    <iic-com:PeriodicidadCalculoVL>
+                        <iic-com:XCode_PeriodicidadCalculoVL_01 contextRef="FIM_S22020_V-66247677_da">01</iic-com:XCode_PeriodicidadCalculoVL_01>
+                    </iic-com:PeriodicidadCalculoVL>
+                    <iic-fim:MedidasRiesgoFIM>
+                        <iic-com-fon:VolatilidadValorLiquidativo contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">16.42</iic-com-fon:VolatilidadValorLiquidativo>
+                        <iic-com-fon:VolatilidadValorLiquidativo contextRef="FIM_S22020_V-66247677_daq" decimals="2" unitRef="pure">15.17</iic-com-fon:VolatilidadValorLiquidativo>
+                        <iic-com-fon:VolatilidadValorLiquidativo contextRef="FIM_S22020_V-66247677_dpq" decimals="2" unitRef="pure">15.45</iic-com-fon:VolatilidadValorLiquidativo>
+                        <iic-com-fon:VolatilidadValorLiquidativo contextRef="FIM_S22020_V-66247677_dpq2" decimals="2" unitRef="pure">15.18</iic-com-fon:VolatilidadValorLiquidativo>
+                        <iic-com-fon:VolatilidadValorLiquidativo contextRef="FIM_S22020_V-66247677_dpq3" decimals="2" unitRef="pure">19.38</iic-com-fon:VolatilidadValorLiquidativo>
+                        <iic-com-fon:VolatilidadValorLiquidativo contextRef="FIM_S22020_V-66247677_dpy" decimals="2" unitRef="pure">8.59</iic-com-fon:VolatilidadValorLiquidativo>
+                        <iic-com-fon:VolatilidadValorLiquidativo contextRef="FIM_S22020_V-66247677_dpy2" decimals="2" unitRef="pure">5.01</iic-com-fon:VolatilidadValorLiquidativo>
+                        <iic-com-fon:VolatilidadValorLiquidativo contextRef="FIM_S22020_V-66247677_dpy3" decimals="2" unitRef="pure">1.61</iic-com-fon:VolatilidadValorLiquidativo>
+                        <iic-com-fon:VolatilidadValorLiquidativo contextRef="FIM_S22020_V-66247677_dpy5" decimals="2" unitRef="pure">4.29</iic-com-fon:VolatilidadValorLiquidativo>
+                        <iic-com-fon:VolatilidadIbex contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">34.1</iic-com-fon:VolatilidadIbex>
+                        <iic-com-fon:VolatilidadIbex contextRef="FIM_S22020_V-66247677_daq" decimals="2" unitRef="pure">25.37</iic-com-fon:VolatilidadIbex>
+                        <iic-com-fon:VolatilidadIbex contextRef="FIM_S22020_V-66247677_dpq" decimals="2" unitRef="pure">21.17</iic-com-fon:VolatilidadIbex>
+                        <iic-com-fon:VolatilidadIbex contextRef="FIM_S22020_V-66247677_dpq2" decimals="2" unitRef="pure">32.70</iic-com-fon:VolatilidadIbex>
+                        <iic-com-fon:VolatilidadIbex contextRef="FIM_S22020_V-66247677_dpq3" decimals="2" unitRef="pure">49.41</iic-com-fon:VolatilidadIbex>
+                        <iic-com-fon:VolatilidadIbex contextRef="FIM_S22020_V-66247677_dpy" decimals="2" unitRef="pure">12.41</iic-com-fon:VolatilidadIbex>
+                        <iic-com-fon:VolatilidadIbex contextRef="FIM_S22020_V-66247677_dpy2" decimals="2" unitRef="pure">13.52</iic-com-fon:VolatilidadIbex>
+                        <iic-com-fon:VolatilidadIbex contextRef="FIM_S22020_V-66247677_dpy3" decimals="2" unitRef="pure">12.85</iic-com-fon:VolatilidadIbex>
+                        <iic-com-fon:VolatilidadIbex contextRef="FIM_S22020_V-66247677_dpy5" decimals="2" unitRef="pure">20.68</iic-com-fon:VolatilidadIbex>
+                        <iic-com-fon:VolatilidadLetrasTesoro contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">0.02</iic-com-fon:VolatilidadLetrasTesoro>
+                        <iic-com-fon:VolatilidadLetrasTesoro contextRef="FIM_S22020_V-66247677_daq" decimals="2" unitRef="pure">0.02</iic-com-fon:VolatilidadLetrasTesoro>
+                        <iic-com-fon:VolatilidadLetrasTesoro contextRef="FIM_S22020_V-66247677_dpq" decimals="2" unitRef="pure">0.02</iic-com-fon:VolatilidadLetrasTesoro>
+                        <iic-com-fon:VolatilidadLetrasTesoro contextRef="FIM_S22020_V-66247677_dpq2" decimals="2" unitRef="pure">0.01</iic-com-fon:VolatilidadLetrasTesoro>
+                        <iic-com-fon:VolatilidadLetrasTesoro contextRef="FIM_S22020_V-66247677_dpq3" decimals="2" unitRef="pure">0.02</iic-com-fon:VolatilidadLetrasTesoro>
+                        <iic-com-fon:VolatilidadLetrasTesoro contextRef="FIM_S22020_V-66247677_dpy" decimals="2" unitRef="pure">0.02</iic-com-fon:VolatilidadLetrasTesoro>
+                        <iic-com-fon:VolatilidadLetrasTesoro contextRef="FIM_S22020_V-66247677_dpy2" decimals="2" unitRef="pure">0.01</iic-com-fon:VolatilidadLetrasTesoro>
+                        <iic-com-fon:VolatilidadLetrasTesoro contextRef="FIM_S22020_V-66247677_dpy3" decimals="2" unitRef="pure">0.01</iic-com-fon:VolatilidadLetrasTesoro>
+                        <iic-com-fon:VolatilidadLetrasTesoro contextRef="FIM_S22020_V-66247677_dpy5" decimals="2" unitRef="pure">0.01</iic-com-fon:VolatilidadLetrasTesoro>
+                        <iic-com-fon:VolatilidadIndice>
+                            <iic-com-fon:VolatilidadElemento contextRef="FIM_S22020_V-66247677_daa">Benchmark 1 Kessler</iic-com-fon:VolatilidadElemento>
+                            <iic-com-fon:VolatilidadElementoValor contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">5.51</iic-com-fon:VolatilidadElementoValor>
+                            <iic-com-fon:VolatilidadElementoValor contextRef="FIM_S22020_V-66247677_daq" decimals="2" unitRef="pure">2.31</iic-com-fon:VolatilidadElementoValor>
+                            <iic-com-fon:VolatilidadElementoValor contextRef="FIM_S22020_V-66247677_dpq" decimals="2" unitRef="pure">2.59</iic-com-fon:VolatilidadElementoValor>
+                            <iic-com-fon:VolatilidadElementoValor contextRef="FIM_S22020_V-66247677_dpq2" decimals="2" unitRef="pure">4.82</iic-com-fon:VolatilidadElementoValor>
+                            <iic-com-fon:VolatilidadElementoValor contextRef="FIM_S22020_V-66247677_dpq3" decimals="2" unitRef="pure">9.31</iic-com-fon:VolatilidadElementoValor>
+                            <iic-com-fon:VolatilidadElementoValor contextRef="FIM_S22020_V-66247677_dpy" decimals="2" unitRef="pure">2.47</iic-com-fon:VolatilidadElementoValor>
+                            <iic-com-fon:VolatilidadElementoValor contextRef="FIM_S22020_V-66247677_dpy2" decimals="2" unitRef="pure">3.01</iic-com-fon:VolatilidadElementoValor>
+                            <iic-com-fon:VolatilidadElementoValor contextRef="FIM_S22020_V-66247677_dpy3" decimals="2" unitRef="pure">2.63</iic-com-fon:VolatilidadElementoValor>
+                            <iic-com-fon:VolatilidadElementoValor contextRef="FIM_S22020_V-66247677_dpy5" decimals="2" unitRef="pure">5.12</iic-com-fon:VolatilidadElementoValor>
+                        </iic-com-fon:VolatilidadIndice>
+                        <iic-com-fon:VolatilidadVaRHistorica contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">5.98</iic-com-fon:VolatilidadVaRHistorica>
+                        <iic-com-fon:VolatilidadVaRHistorica contextRef="FIM_S22020_V-66247677_daq" decimals="2" unitRef="pure">5.98</iic-com-fon:VolatilidadVaRHistorica>
+                        <iic-com-fon:VolatilidadVaRHistorica contextRef="FIM_S22020_V-66247677_dpq" decimals="2" unitRef="pure">12.04</iic-com-fon:VolatilidadVaRHistorica>
+                        <iic-com-fon:VolatilidadVaRHistorica contextRef="FIM_S22020_V-66247677_dpq2" decimals="2" unitRef="pure">10.73</iic-com-fon:VolatilidadVaRHistorica>
+                        <iic-com-fon:VolatilidadVaRHistorica contextRef="FIM_S22020_V-66247677_dpq3" decimals="2" unitRef="pure">1.51</iic-com-fon:VolatilidadVaRHistorica>
+                        <iic-com-fon:VolatilidadVaRHistorica contextRef="FIM_S22020_V-66247677_dpy" decimals="2" unitRef="pure">6.18</iic-com-fon:VolatilidadVaRHistorica>
+                        <iic-com-fon:VolatilidadVaRHistorica contextRef="FIM_S22020_V-66247677_dpy2" decimals="2" unitRef="pure">2.72</iic-com-fon:VolatilidadVaRHistorica>
+                        <iic-com-fon:VolatilidadVaRHistorica contextRef="FIM_S22020_V-66247677_dpy3" decimals="2" unitRef="pure">1.94</iic-com-fon:VolatilidadVaRHistorica>
+                        <iic-com-fon:VolatilidadVaRHistorica contextRef="FIM_S22020_V-66247677_dpy5" decimals="2" unitRef="pure">3.08</iic-com-fon:VolatilidadVaRHistorica>
+                    </iic-fim:MedidasRiesgoFIM>
+                    <iic-fim:GastosClaseFIM>
+                        <iic-com:RatioTotalGastos contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">1.84</iic-com:RatioTotalGastos>
+                        <iic-com:RatioTotalGastos contextRef="FIM_S22020_V-66247677_daq" decimals="2" unitRef="pure">0.48</iic-com:RatioTotalGastos>
+                        <iic-com:RatioTotalGastos contextRef="FIM_S22020_V-66247677_dpq" decimals="2" unitRef="pure">0.47</iic-com:RatioTotalGastos>
+                        <iic-com:RatioTotalGastos contextRef="FIM_S22020_V-66247677_dpq2" decimals="2" unitRef="pure">0.45</iic-com:RatioTotalGastos>
+                        <iic-com:RatioTotalGastos contextRef="FIM_S22020_V-66247677_dpq3" decimals="2" unitRef="pure">0.41</iic-com:RatioTotalGastos>
+                        <iic-com:RatioTotalGastos contextRef="FIM_S22020_V-66247677_dpy" decimals="2" unitRef="pure">1.52</iic-com:RatioTotalGastos>
+                        <iic-com:RatioTotalGastos contextRef="FIM_S22020_V-66247677_dpy2" decimals="2" unitRef="pure">1.53</iic-com:RatioTotalGastos>
+                        <iic-com:RatioTotalGastos contextRef="FIM_S22020_V-66247677_dpy3" decimals="2" unitRef="pure">1.45</iic-com:RatioTotalGastos>
+                        <iic-com:RatioTotalGastos contextRef="FIM_S22020_V-66247677_dpy5" decimals="2" unitRef="pure">1.31</iic-com:RatioTotalGastos>
+                        <iic-com:RatioGastosEstimado contextRef="FIM_S22020_V-66247677_da">true</iic-com:RatioGastosEstimado>
+                        <iic-com:AplicacionRatioGastos contextRef="FIM_S22020_V-66247677_ia">true</iic-com:AplicacionRatioGastos>
+                    </iic-fim:GastosClaseFIM>
+                    <iic-com:EvolucionValorLiquidativo>
+                        <iic-com:NombreFicheroAdjunto contextRef="FIM_S22020_V-66247677_da">evolucionVL</iic-com:NombreFicheroAdjunto>
+                        <iic-com:TipoMimeFicheroAdjunto contextRef="FIM_S22020_V-66247677_da">png</iic-com:TipoMimeFicheroAdjunto>
+                        <iic-com:ContenidoFicheroAdjunto contextRef="FIM_S22020_V-66247677_da">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</iic-com:ContenidoFicheroAdjunto>
+                    </iic-com:EvolucionValorLiquidativo>
+                    <iic-com:RentabilidadUltimosAnnos>
+                        <iic-com:NombreFicheroAdjunto contextRef="FIM_S22020_V-66247677_da">rentabilidad</iic-com:NombreFicheroAdjunto>
+                        <iic-com:TipoMimeFicheroAdjunto contextRef="FIM_S22020_V-66247677_da">png</iic-com:TipoMimeFicheroAdjunto>
+                        <iic-com:ContenidoFicheroAdjunto contextRef="FIM_S22020_V-66247677_da">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</iic-com:ContenidoFicheroAdjunto>
+                    </iic-com:RentabilidadUltimosAnnos>
+                    
+                    <iic-com:ModificacionPoliticaInversion>
+                        <iic-com:ModificadaPoliticaInversion contextRef="FIM_S22020_V-66247677_da">false</iic-com:ModificadaPoliticaInversion>
+                    </iic-com:ModificacionPoliticaInversion>
+                </iic-fim:DatosClaseFIM>
+                <iic-fim:DistribucionPatrimonioFIM>
+
+                    <iic-com:DistribucionPatrimonioInversionesFinancieras contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">2497660</iic-com:DistribucionPatrimonioInversionesFinancieras>
+
+                    <iic-com:DistribucionPatrimonioInversionesFinancieras contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">2859816</iic-com:DistribucionPatrimonioInversionesFinancieras>
+                    <iic-com:DistribucionPatrimonioCarteraInterior contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">799817</iic-com:DistribucionPatrimonioCarteraInterior>
+                    <iic-com:DistribucionPatrimonioCarteraInterior contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">1099887</iic-com:DistribucionPatrimonioCarteraInterior>
+                    <iic-com:DistribucionPatrimonioCarteraExterior contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">1697855</iic-com:DistribucionPatrimonioCarteraExterior>
+                    <iic-com:DistribucionPatrimonioCarteraExterior contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">1759946</iic-com:DistribucionPatrimonioCarteraExterior>
+                    <iic-com:DistribucionPatrimonioInteresesCartera contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">-12</iic-com:DistribucionPatrimonioInteresesCartera>
+                    <iic-com:DistribucionPatrimonioInteresesCartera contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">-17</iic-com:DistribucionPatrimonioInteresesCartera>
+                    <iic-com:DistribucionPatrimonioInversionesDudosas contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">0</iic-com:DistribucionPatrimonioInversionesDudosas>
+                    <iic-com:DistribucionPatrimonioInversionesDudosas contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">0</iic-com:DistribucionPatrimonioInversionesDudosas>
+                    <iic-com:DistribucionPatrimonioLiquidez contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">264810</iic-com:DistribucionPatrimonioLiquidez>
+                    <iic-com:DistribucionPatrimonioLiquidez contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">548008</iic-com:DistribucionPatrimonioLiquidez>
+                    <iic-com:DistribucionPatrimonioResto contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">188657</iic-com:DistribucionPatrimonioResto>
+                    <iic-com:DistribucionPatrimonioResto contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">229017</iic-com:DistribucionPatrimonioResto>
+                    <iic-com:DistribucionPatrimonioTotal contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">2951127</iic-com:DistribucionPatrimonioTotal>
+                    <iic-com:DistribucionPatrimonioTotal contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">3636841</iic-com:DistribucionPatrimonioTotal>
+                </iic-fim:DistribucionPatrimonioFIM>
+                <iic-fim:VariacionPatrimonialFIM>
+                    <iic-com:VariacionPatrimonialFinPeriodoAnterior contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">3636841</iic-com:VariacionPatrimonialFinPeriodoAnterior>
+                    <iic-com:VariacionPatrimonialFinPeriodoAnterior contextRef="FIM_S22020_V-66247677_dpp" decimals="0" unitRef="EUR">3453738</iic-com:VariacionPatrimonialFinPeriodoAnterior>
+                    <iic-com:VariacionPatrimonialFinPeriodoAnterior contextRef="FIM_S22020_V-66247677_daa" decimals="0" unitRef="EUR">3453738</iic-com:VariacionPatrimonialFinPeriodoAnterior>
+                    <iic-com:VariacionPatrimonialSuscripciones contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">-2.49</iic-com:VariacionPatrimonialSuscripciones>
+                    <iic-com:VariacionPatrimonialSuscripciones contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">1.14</iic-com:VariacionPatrimonialSuscripciones>
+                    <iic-com:VariacionPatrimonialSuscripciones contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">-1.22</iic-com:VariacionPatrimonialSuscripciones>
+
+                    <iic-com:VariacionPatrimonialSuscripcionesRespectoFinAnterior contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">-303.15</iic-com:VariacionPatrimonialSuscripcionesRespectoFinAnterior>
+                    <iic-com:VariacionPatrimonialBeneficioDistribuido contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="EUR">0.00</iic-com:VariacionPatrimonialBeneficioDistribuido>
+                    <iic-com:VariacionPatrimonialBeneficioDistribuido contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="EUR">0.00</iic-com:VariacionPatrimonialBeneficioDistribuido>
+                    <iic-com:VariacionPatrimonialBeneficioDistribuido contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="EUR">0.00</iic-com:VariacionPatrimonialBeneficioDistribuido>
+
+                    <iic-com:VariacionPatrimonialBeneficioDistribuidoRespectoFinAnterior contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialBeneficioDistribuidoRespectoFinAnterior>
+                    <iic-com:VariacionPatrimonialRendimientoNeto contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">-18.18</iic-com:VariacionPatrimonialRendimientoNeto>
+                    <iic-com:VariacionPatrimonialRendimientoNeto contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">3.97</iic-com:VariacionPatrimonialRendimientoNeto>
+                    <iic-com:VariacionPatrimonialRendimientoNeto contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">-13.37</iic-com:VariacionPatrimonialRendimientoNeto>
+
+                    <iic-com:VariacionPatrimonialRendimientoNetoRespectoFinAnterior contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">-523.55</iic-com:VariacionPatrimonialRendimientoNetoRespectoFinAnterior>
+                    <iic-com:VariacionPatrimonialRendimientoGestion contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">-17.47</iic-com:VariacionPatrimonialRendimientoGestion>
+                    <iic-com:VariacionPatrimonialRendimientoGestion contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">4.68</iic-com:VariacionPatrimonialRendimientoGestion>
+                    <iic-com:VariacionPatrimonialRendimientoGestion contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">-11.96</iic-com:VariacionPatrimonialRendimientoGestion>
+
+                    <iic-com:VariacionPatrimonialRendimientoGestionRespectoFinAnterior contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">-446.09</iic-com:VariacionPatrimonialRendimientoGestionRespectoFinAnterior>
+                    <iic-com:VariacionPatrimonialIntereses contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">-0.09</iic-com:VariacionPatrimonialIntereses>
+                    <iic-com:VariacionPatrimonialIntereses contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">-0.10</iic-com:VariacionPatrimonialIntereses>
+                    <iic-com:VariacionPatrimonialIntereses contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">-0.18</iic-com:VariacionPatrimonialIntereses>
+
+                    <iic-com:VariacionPatrimonialInteresesRespectoFinAnterior contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">-15.96</iic-com:VariacionPatrimonialInteresesRespectoFinAnterior>
+                    <iic-com:VariacionPatrimonialDividendos contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialDividendos>
+                    <iic-com:VariacionPatrimonialDividendos contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialDividendos>
+                    <iic-com:VariacionPatrimonialDividendos contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialDividendos>
+
+                    <iic-com:VariacionPatrimonialDividendosRespectoFinAnterior contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialDividendosRespectoFinAnterior>
+                    <iic-com:VariacionPatrimonialRentaFija contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialRentaFija>
+                    <iic-com:VariacionPatrimonialRentaFija contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialRentaFija>
+                    <iic-com:VariacionPatrimonialRentaFija contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialRentaFija>
+
+                    <iic-com:VariacionPatrimonialRentaFijaRespectoFinAnterior contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialRentaFijaRespectoFinAnterior>
+                    <iic-com:VariacionPatrimonialRentaVariable contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialRentaVariable>
+                    <iic-com:VariacionPatrimonialRentaVariable contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialRentaVariable>
+                    <iic-com:VariacionPatrimonialRentaVariable contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialRentaVariable>
+
+                    <iic-com:VariacionPatrimonialRentaVariableRespectoFinAnterior contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialRentaVariableRespectoFinAnterior>
+                    <iic-com:VariacionPatrimonialDepositos contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialDepositos>
+                    <iic-com:VariacionPatrimonialDepositos contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialDepositos>
+                    <iic-com:VariacionPatrimonialDepositos contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialDepositos>
+
+                    <iic-com:VariacionPatrimonialDepositosRespectoFinAnterior contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialDepositosRespectoFinAnterior>
+                    <iic-com:VariacionPatrimonialDerivados contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">-17.49</iic-com:VariacionPatrimonialDerivados>
+                    <iic-com:VariacionPatrimonialDerivados contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">-2.81</iic-com:VariacionPatrimonialDerivados>
+                    <iic-com:VariacionPatrimonialDerivados contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">-19.76</iic-com:VariacionPatrimonialDerivados>
+
+                    <iic-com:VariacionPatrimonialDerivadosRespectoFinAnterior contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">479.32</iic-com:VariacionPatrimonialDerivadosRespectoFinAnterior>
+                    <iic-com:VariacionPatrimonialIIC contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.60</iic-com:VariacionPatrimonialIIC>
+                    <iic-com:VariacionPatrimonialIIC contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">7.77</iic-com:VariacionPatrimonialIIC>
+                    <iic-com:VariacionPatrimonialIIC contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">8.64</iic-com:VariacionPatrimonialIIC>
+                    <iic-com:VariacionPatrimonialIICRespectoFinAnterior contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">-92.77</iic-com:VariacionPatrimonialIICRespectoFinAnterior>
+                    <iic-com:VariacionPatrimonialOtrosResultados contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">-0.49</iic-com:VariacionPatrimonialOtrosResultados>
+                    <iic-com:VariacionPatrimonialOtrosResultados contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">-0.18</iic-com:VariacionPatrimonialOtrosResultados>
+                    <iic-com:VariacionPatrimonialOtrosResultados contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">-0.66</iic-com:VariacionPatrimonialOtrosResultados>
+
+                    <iic-com:VariacionPatrimonialOtrosResultadosRespectoFinAnterior contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">149.23</iic-com:VariacionPatrimonialOtrosResultadosRespectoFinAnterior>
+                    <iic-com:VariacionPatrimonialOtrosRendimientos contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialOtrosRendimientos>
+                    <iic-com:VariacionPatrimonialOtrosRendimientos contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialOtrosRendimientos>
+                    <iic-com:VariacionPatrimonialOtrosRendimientos contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialOtrosRendimientos>
+
+                    <iic-com:VariacionPatrimonialOtrosRendimientosRespectoFinAnterior contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialOtrosRendimientosRespectoFinAnterior>
+                    <iic-com:VariacionPatrimonialGastosRepercutidos contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">-0.73</iic-com:VariacionPatrimonialGastosRepercutidos>
+                    <iic-com:VariacionPatrimonialGastosRepercutidos contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">-0.71</iic-com:VariacionPatrimonialGastosRepercutidos>
+                    <iic-com:VariacionPatrimonialGastosRepercutidos contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">-1.43</iic-com:VariacionPatrimonialGastosRepercutidos>
+
+                    <iic-com:VariacionPatrimonialGastosRepercutidosRespectoFinAnterior contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">-3.87</iic-com:VariacionPatrimonialGastosRepercutidosRespectoFinAnterior>
+                    <iic-com:VariacionPatrimonialComisionGestion contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">-0.50</iic-com:VariacionPatrimonialComisionGestion>
+                    <iic-com:VariacionPatrimonialComisionGestion contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">-0.50</iic-com:VariacionPatrimonialComisionGestion>
+                    <iic-com:VariacionPatrimonialComisionGestion contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">-1.00</iic-com:VariacionPatrimonialComisionGestion>
+
+                    <iic-com:VariacionPatrimonialComisionGestionRespectoFinAnterior contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">-6.08</iic-com:VariacionPatrimonialComisionGestionRespectoFinAnterior>
+                    <iic-com:VariacionPatrimonialComisionDepositario contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">-0.04</iic-com:VariacionPatrimonialComisionDepositario>
+                    <iic-com:VariacionPatrimonialComisionDepositario contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">-0.04</iic-com:VariacionPatrimonialComisionDepositario>
+                    <iic-com:VariacionPatrimonialComisionDepositario contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">-0.08</iic-com:VariacionPatrimonialComisionDepositario>
+
+                    <iic-com:VariacionPatrimonialComisionDepositarioRespectoFinAnterior contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">-6.09</iic-com:VariacionPatrimonialComisionDepositarioRespectoFinAnterior>
+                    <iic-com:VariacionPatrimonialServiciosExteriores contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">-0.17</iic-com:VariacionPatrimonialServiciosExteriores>
+                    <iic-com:VariacionPatrimonialServiciosExteriores contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">-0.15</iic-com:VariacionPatrimonialServiciosExteriores>
+                    <iic-com:VariacionPatrimonialServiciosExteriores contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">-0.31</iic-com:VariacionPatrimonialServiciosExteriores>
+
+                    <iic-com:VariacionPatrimonialServiciosExterioresRespectoFinAnterior contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">6.56</iic-com:VariacionPatrimonialServiciosExterioresRespectoFinAnterior>
+                    <iic-com:VariacionPatrimonialGastosCorrientes contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">-0.02</iic-com:VariacionPatrimonialGastosCorrientes>
+                    <iic-com:VariacionPatrimonialGastosCorrientes contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">-0.02</iic-com:VariacionPatrimonialGastosCorrientes>
+                    <iic-com:VariacionPatrimonialGastosCorrientes contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">-0.04</iic-com:VariacionPatrimonialGastosCorrientes>
+
+                    <iic-com:VariacionPatrimonialGastosCorrientesRespectoFinAnterior contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">7.43</iic-com:VariacionPatrimonialGastosCorrientesRespectoFinAnterior>
+                    <iic-com:VariacionPatrimonialOtrosGastos contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialOtrosGastos>
+                    <iic-com:VariacionPatrimonialOtrosGastos contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialOtrosGastos>
+                    <iic-com:VariacionPatrimonialOtrosGastos contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialOtrosGastos>
+
+                    <iic-com:VariacionPatrimonialOtrosGastosRespectoFinAnterior contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">-112.68</iic-com:VariacionPatrimonialOtrosGastosRespectoFinAnterior>
+                    <iic-com:VariacionPatrimonialIngresos contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.02</iic-com:VariacionPatrimonialIngresos>
+                    <iic-com:VariacionPatrimonialIngresos contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialIngresos>
+                    <iic-com:VariacionPatrimonialIngresos contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">0.02</iic-com:VariacionPatrimonialIngresos>
+
+                    <iic-com:VariacionPatrimonialIngresosRespectoFinAnterior contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">362.18</iic-com:VariacionPatrimonialIngresosRespectoFinAnterior>
+                    <iic-com:VariacionPatrimonialDescuentos contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialDescuentos>
+                    <iic-com:VariacionPatrimonialDescuentos contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialDescuentos>
+                    <iic-com:VariacionPatrimonialDescuentos contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialDescuentos>
+
+                    <iic-com:VariacionPatrimonialDescuentosRespectoFinAnterior contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialDescuentosRespectoFinAnterior>
+                    <iic-com:VariacionPatrimonialRetrocedidas contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.02</iic-com:VariacionPatrimonialRetrocedidas>
+                    <iic-com:VariacionPatrimonialRetrocedidas contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialRetrocedidas>
+                    <iic-com:VariacionPatrimonialRetrocedidas contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">0.02</iic-com:VariacionPatrimonialRetrocedidas>
+
+                    <iic-com:VariacionPatrimonialRetrocedidasRespectoFinAnterior contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">362.18</iic-com:VariacionPatrimonialRetrocedidasRespectoFinAnterior>
+                    <iic-com:VariacionPatrimonialOtrosIngresos contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialOtrosIngresos>
+                    <iic-com:VariacionPatrimonialOtrosIngresos contextRef="FIM_S22020_V-66247677_dpp" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialOtrosIngresos>
+                    <iic-com:VariacionPatrimonialOtrosIngresos contextRef="FIM_S22020_V-66247677_daa" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialOtrosIngresos>
+
+                    <iic-com:VariacionPatrimonialOtrosIngresosRespectoFinAnterior contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-com:VariacionPatrimonialOtrosIngresosRespectoFinAnterior>
+                    <iic-com:VariacionPatrimonialFinPeriodoActual contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">2951125</iic-com:VariacionPatrimonialFinPeriodoActual>
+                    <iic-com:VariacionPatrimonialFinPeriodoActual contextRef="FIM_S22020_V-66247677_dpp" decimals="0" unitRef="EUR">3636841</iic-com:VariacionPatrimonialFinPeriodoActual>
+                    <iic-com:VariacionPatrimonialFinPeriodoActual contextRef="FIM_S22020_V-66247677_daa" decimals="0" unitRef="EUR">2951125</iic-com:VariacionPatrimonialFinPeriodoActual>
+                </iic-fim:VariacionPatrimonialFIM>
+            </iic-fim:DatosEconomicosFIM>
+            <iic-fim:InversionesFinancierasFIM>
+                <iic-com:InversionesFinancierasValorEstimado>
+                    <iic-com:InversionesFinancierasInterior>
+                        <iic-com:InversionesFinancierasAdquisicionTemporalActivos>
+                            <iic-com:CodigoISIN contextRef="FIM_S22020_V-66247677_ia">ES00000122T3</iic-com:CodigoISIN>
+                            <iic-com:InversionesFinancierasDescripcion contextRef="FIM_S22020_V-66247677_ia">REPO|ESTADO ESPAÑOL|-0,54|2020-07-01</iic-com:InversionesFinancierasDescripcion>
+                            <dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_S22020_V-66247677_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">0</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="pure">0.0</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">183314</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="pure">5.04</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                        </iic-com:InversionesFinancierasAdquisicionTemporalActivos>
+                        <iic-com:InversionesFinancierasAdquisicionTemporalActivos>
+                            <iic-com:CodigoISIN contextRef="FIM_S22020_V-66247677_ia">ES0L02008149</iic-com:CodigoISIN>
+                            <iic-com:InversionesFinancierasDescripcion contextRef="FIM_S22020_V-66247677_ia">REPO|ESTADO ESPAÑOL|-0,54|2020-07-01</iic-com:InversionesFinancierasDescripcion>
+                            <dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_S22020_V-66247677_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">0</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="pure">0.0</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">183314</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="pure">5.04</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                        </iic-com:InversionesFinancierasAdquisicionTemporalActivos>
+                        <iic-com:InversionesFinancierasAdquisicionTemporalActivos>
+                            <iic-com:CodigoISIN contextRef="FIM_S22020_V-66247677_ia">ES00000122E5</iic-com:CodigoISIN>
+                            <iic-com:InversionesFinancierasDescripcion contextRef="FIM_S22020_V-66247677_ia">REPO|ESTADO ESPAÑOL|-0,55|2021-01-04</iic-com:InversionesFinancierasDescripcion>
+                            <dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_S22020_V-66247677_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">799817</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="pure">27.1</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">0</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="pure">0.0</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                        </iic-com:InversionesFinancierasAdquisicionTemporalActivos>
+                        <iic-com:InversionesFinancierasAdquisicionTemporalActivos>
+                            <iic-com:CodigoISIN contextRef="FIM_S22020_V-66247677_ia">ES00000123U9</iic-com:CodigoISIN>
+                            <iic-com:InversionesFinancierasDescripcion contextRef="FIM_S22020_V-66247677_ia">REPO|ESTADO ESPAÑOL|-0,54|2020-07-01</iic-com:InversionesFinancierasDescripcion>
+                            <dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_S22020_V-66247677_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">0</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="pure">0.0</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">183314</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="pure">5.04</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                        </iic-com:InversionesFinancierasAdquisicionTemporalActivos>
+                        <iic-com:InversionesFinancierasAdquisicionTemporalActivos>
+                            <iic-com:CodigoISIN contextRef="FIM_S22020_V-66247677_ia">ES00000126Z1</iic-com:CodigoISIN>
+                            <iic-com:InversionesFinancierasDescripcion contextRef="FIM_S22020_V-66247677_ia">REPO|ESTADO ESPAÑOL|-0,54|2020-07-01</iic-com:InversionesFinancierasDescripcion>
+                            <dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_S22020_V-66247677_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">0</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="pure">0.0</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">183314</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="pure">5.04</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                        </iic-com:InversionesFinancierasAdquisicionTemporalActivos>
+                        <iic-com:InversionesFinancierasAdquisicionTemporalActivos>
+                            <iic-com:CodigoISIN contextRef="FIM_S22020_V-66247677_ia">ES0000012F84</iic-com:CodigoISIN>
+                            <iic-com:InversionesFinancierasDescripcion contextRef="FIM_S22020_V-66247677_ia">REPO|ESTADO ESPAÑOL|-0,54|2020-07-01</iic-com:InversionesFinancierasDescripcion>
+                            <dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_S22020_V-66247677_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">0</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="pure">0.0</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">183314</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="pure">5.04</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                        </iic-com:InversionesFinancierasAdquisicionTemporalActivos>
+                        <iic-com:InversionesFinancierasAdquisicionTemporalActivos>
+                            <iic-com:CodigoISIN contextRef="FIM_S22020_V-66247677_ia">ES0000012F92</iic-com:CodigoISIN>
+                            <iic-com:InversionesFinancierasDescripcion contextRef="FIM_S22020_V-66247677_ia">REPO|ESTADO ESPAÑOL|-0,54|2020-07-01</iic-com:InversionesFinancierasDescripcion>
+                            <dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_S22020_V-66247677_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">0</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="pure">0.0</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">183314</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="pure">5.04</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                        </iic-com:InversionesFinancierasAdquisicionTemporalActivos>
+                        <iic-com:InversionesFinancierasAdquisicionTemporalActivosTotal>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">799817</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="pure">27.1</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">1099884</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="pure">30.24</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                        </iic-com:InversionesFinancierasAdquisicionTemporalActivosTotal>
+                        <iic-com:InversionesFinancierasRF>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">799817</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="pure">27.1</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">1099884</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="pure">30.24</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                        </iic-com:InversionesFinancierasRF>
+                        <iic-com:InversionesFinancierasTotalInversion>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">799817</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="pure">27.1</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">1099884</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="pure">30.24</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                        </iic-com:InversionesFinancierasTotalInversion>
+                    </iic-com:InversionesFinancierasInterior>
+                    <iic-com:InversionesFinancierasExterior>
+                        <iic-com:InversionesFinancierasIIC>
+                            <iic-com:CodigoISIN contextRef="FIM_S22020_V-66247677_ia">FR0010213355</iic-com:CodigoISIN>
+                            <iic-com:InversionesFinancierasDescripcion contextRef="FIM_S22020_V-66247677_ia">I.I.C.|GROUPAMA ENTERP</iic-com:InversionesFinancierasDescripcion>
+                            <dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_S22020_V-66247677_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">199787</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="pure">6.77</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">200042</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="pure">5.5</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                        </iic-com:InversionesFinancierasIIC>
+                        <iic-com:InversionesFinancierasIIC>
+                            <iic-com:CodigoISIN contextRef="FIM_S22020_V-66247677_ia">FR0012088771</iic-com:CodigoISIN>
+                            <iic-com:InversionesFinancierasDescripcion contextRef="FIM_S22020_V-66247677_ia">I.I.C.|CANDRIAM INDEX</iic-com:InversionesFinancierasDescripcion>
+                            <dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_S22020_V-66247677_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">200915</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="pure">6.81</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">199727</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="pure">5.49</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                        </iic-com:InversionesFinancierasIIC>
+                        <iic-com:InversionesFinancierasIIC>
+                            <iic-com:CodigoISIN contextRef="FIM_S22020_V-66247677_ia">IE00B70B9H10</iic-com:CodigoISIN>
+                            <iic-com:InversionesFinancierasDescripcion contextRef="FIM_S22020_V-66247677_ia">I.I.C.|BNY MELLON GLOB</iic-com:InversionesFinancierasDescripcion>
+                            <dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_S22020_V-66247677_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">224045</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="pure">7.59</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">204253</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="pure">5.62</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                        </iic-com:InversionesFinancierasIIC>
+                        <iic-com:InversionesFinancierasIIC>
+                            <iic-com:CodigoISIN contextRef="FIM_S22020_V-66247677_ia">LU0438908328</iic-com:CodigoISIN>
+                            <iic-com:InversionesFinancierasDescripcion contextRef="FIM_S22020_V-66247677_ia">I.I.C.|LEMANIK GLOBAL</iic-com:InversionesFinancierasDescripcion>
+                            <dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_S22020_V-66247677_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">719340</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="pure">24.38</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">732925</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="pure">20.15</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                        </iic-com:InversionesFinancierasIIC>
+                        <iic-com:InversionesFinancierasIIC>
+                            <iic-com:CodigoISIN contextRef="FIM_S22020_V-66247677_ia">LU0548153104</iic-com:CodigoISIN>
+                            <iic-com:InversionesFinancierasDescripcion contextRef="FIM_S22020_V-66247677_ia">I.I.C.|STANDARD LIFE I</iic-com:InversionesFinancierasDescripcion>
+                            <dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_S22020_V-66247677_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">215427</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="pure">7.3</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">201981</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="pure">5.55</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                        </iic-com:InversionesFinancierasIIC>
+                        <iic-com:InversionesFinancierasIIC>
+                            <iic-com:CodigoISIN contextRef="FIM_S22020_V-66247677_ia">LU0568620305</iic-com:CodigoISIN>
+                            <iic-com:InversionesFinancierasDescripcion contextRef="FIM_S22020_V-66247677_ia">I.I.C.|AMUNDI CASH EUR</iic-com:InversionesFinancierasDescripcion>
+                            <dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_S22020_V-66247677_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">199381</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="pure">6.76</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">199900</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="pure">5.5</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                        </iic-com:InversionesFinancierasIIC>
+                        <iic-com:InversionesFinancierasIICTotal>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">1758895</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="pure">59.61</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">1738828</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="pure">47.81</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                        </iic-com:InversionesFinancierasIICTotal>
+                        <iic-com:InversionesFinancierasTotalInversion>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">1758895</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="pure">59.61</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                            <iic-com:InversionesFinancierasImporte>
+                                <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">1738828</iic-com:InversionesFinancierasValor>
+
+                                <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="pure">47.81</iic-com:InversionesFinancierasPorcentaje>
+                            </iic-com:InversionesFinancierasImporte>
+                        </iic-com:InversionesFinancierasTotalInversion>
+                    </iic-com:InversionesFinancierasExterior>
+                    <iic-com:InversionesFinancierasTotal>
+                        <iic-com:InversionesFinancierasImporte>
+                            <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">2558712</iic-com:InversionesFinancierasValor>
+                            <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="pure">86.71</iic-com:InversionesFinancierasPorcentaje>
+                        </iic-com:InversionesFinancierasImporte>
+                        <iic-com:InversionesFinancierasImporte>
+                            <iic-com:InversionesFinancierasValor contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="EUR">2838712</iic-com:InversionesFinancierasValor>
+                            <iic-com:InversionesFinancierasPorcentaje contextRef="FIM_S22020_V-66247677_ipp" decimals="2" unitRef="pure">78.05</iic-com:InversionesFinancierasPorcentaje>
+                        </iic-com:InversionesFinancierasImporte>
+                    </iic-com:InversionesFinancierasTotal>
+                    <iic-com:ProductosEstructurados contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="pure">0</iic-com:ProductosEstructurados>
+                </iic-com:InversionesFinancierasValorEstimado>
+                <iic-com:DistribucionInversionesFinancieras>
+                    <iic-com:FicheroAdjunto>
+                        <iic-com:NombreFicheroAdjunto contextRef="FIM_S22020_V-66247677_da">distribucionTipoActivo</iic-com:NombreFicheroAdjunto>
+                        <iic-com:TipoMimeFicheroAdjunto contextRef="FIM_S22020_V-66247677_da">png</iic-com:TipoMimeFicheroAdjunto>
+                        <iic-com:ContenidoFicheroAdjunto contextRef="FIM_S22020_V-66247677_da">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</iic-com:ContenidoFicheroAdjunto>
+                    </iic-com:FicheroAdjunto>
+                </iic-com:DistribucionInversionesFinancieras>
+                <iic-com:OperativaDerivadosPosiciones>
+                    <iic-com:OperativaDerivadosDerechosImporteTotal contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">0</iic-com:OperativaDerivadosDerechosImporteTotal>
+                    <iic-com:OperativaDerivadosObligacionesRV>
+                        <iic-com:OperativaDerivadosSubyacente contextRef="FIM_S22020_V-66247677_ia">DOW JONES MINI - CBOT</iic-com:OperativaDerivadosSubyacente>
+                        <iic-com:OperativaDerivadosInstrumento contextRef="FIM_S22020_V-66247677_ia">FUTURO|DOW JONES MINI - CBOT|5|</iic-com:OperativaDerivadosInstrumento>
+                        <iic-com:OperativaDerivadosObligacionesRVImporte contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">873732</iic-com:OperativaDerivadosObligacionesRVImporte>
+                        <iic-com:XCode_OperativaDerivadosObjetivo_02 contextRef="FIM_S22020_V-66247677_ia">02</iic-com:XCode_OperativaDerivadosObjetivo_02>
+                    </iic-com:OperativaDerivadosObligacionesRV>
+                    <iic-com:OperativaDerivadosObligacionesRV>
+                        <iic-com:OperativaDerivadosSubyacente contextRef="FIM_S22020_V-66247677_ia">MINI S&amp;P 500 INDEX</iic-com:OperativaDerivadosSubyacente>
+                        <iic-com:OperativaDerivadosInstrumento contextRef="FIM_S22020_V-66247677_ia">FUTURO|MINI S&amp;P 500 INDEX|50|</iic-com:OperativaDerivadosInstrumento>
+                        <iic-com:OperativaDerivadosObligacionesRVImporte contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">920579</iic-com:OperativaDerivadosObligacionesRVImporte>
+                        <iic-com:XCode_OperativaDerivadosObjetivo_02 contextRef="FIM_S22020_V-66247677_ia">02</iic-com:XCode_OperativaDerivadosObjetivo_02>
+                    </iic-com:OperativaDerivadosObligacionesRV>
+                    <iic-com:OperativaDerivadosObligacionesRV>
+                        <iic-com:OperativaDerivadosSubyacente contextRef="FIM_S22020_V-66247677_ia">NASDAQ 100 E-MINI</iic-com:OperativaDerivadosSubyacente>
+                        <iic-com:OperativaDerivadosInstrumento contextRef="FIM_S22020_V-66247677_ia">FUTURO|NASDAQ 100 E-MINI|20|</iic-com:OperativaDerivadosInstrumento>
+                        <iic-com:OperativaDerivadosObligacionesRVImporte contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">1054762</iic-com:OperativaDerivadosObligacionesRVImporte>
+                        <iic-com:XCode_OperativaDerivadosObjetivo_02 contextRef="FIM_S22020_V-66247677_ia">02</iic-com:XCode_OperativaDerivadosObjetivo_02>
+                    </iic-com:OperativaDerivadosObligacionesRV>
+
+                    <iic-com:OperativaDerivadosObligacionesRVImporteTotal contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">2849073</iic-com:OperativaDerivadosObligacionesRVImporteTotal>
+                    <iic-com:OperativaDerivadosObligacionesImporteTotal contextRef="FIM_S22020_V-66247677_ia" decimals="2" unitRef="EUR">2849073</iic-com:OperativaDerivadosObligacionesImporteTotal>
+                </iic-com:OperativaDerivadosPosiciones>
+            </iic-fim:InversionesFinancierasFIM>
+            <iic-fim:HechosRelevantesFIM>
+                <iic-com-fon:HechoRelevanteSuspensionSuscripciones contextRef="FIM_S22020_V-66247677_da">false</iic-com-fon:HechoRelevanteSuspensionSuscripciones>
+                <iic-com-fon:HechoRelevanteReanudacionSuscripciones contextRef="FIM_S22020_V-66247677_da">false</iic-com-fon:HechoRelevanteReanudacionSuscripciones>
+                <iic-com-fon:HechoRelevanteReembolsoPatrimonio contextRef="FIM_S22020_V-66247677_da">false</iic-com-fon:HechoRelevanteReembolsoPatrimonio>
+                <iic-com:HechoRelevanteEndeudamiento contextRef="FIM_S22020_V-66247677_da">false</iic-com:HechoRelevanteEndeudamiento>
+                <iic-com-fon:HechoRelevanteCambioGestora contextRef="FIM_S22020_V-66247677_da">false</iic-com-fon:HechoRelevanteCambioGestora>
+                <iic-com-fon:HechoRelevanteCambioDepositaria contextRef="FIM_S22020_V-66247677_da">false</iic-com-fon:HechoRelevanteCambioDepositaria>
+                <iic-com-fon:HechoRelevanteCambioControlGestora contextRef="FIM_S22020_V-66247677_da">false</iic-com-fon:HechoRelevanteCambioControlGestora>
+                <iic-com:HechoRelevanteCambioEsencial contextRef="FIM_S22020_V-66247677_da">false</iic-com:HechoRelevanteCambioEsencial>
+                <iic-com-fon:HechoRelevanteAutorizacionFusion contextRef="FIM_S22020_V-66247677_da">false</iic-com-fon:HechoRelevanteAutorizacionFusion>
+                <iic-com:HechoRelevanteOtros contextRef="FIM_S22020_V-66247677_da">false</iic-com:HechoRelevanteOtros>
+            </iic-fim:HechosRelevantesFIM>
+            <iic-com:ExplicacionHechosRelevantes contextRef="FIM_S22020_V-66247677_da">No aplicable
+</iic-com:ExplicacionHechosRelevantes>
+            <iic-fim:OperacionesVinculadasFIM>
+
+                <iic-com-fon:OperacionesVinculadasParticipesSignificativos contextRef="FIM_S22020_V-66247677_da">true</iic-com-fon:OperacionesVinculadasParticipesSignificativos>
+
+                <iic-com-fon:OperacionesVinculadasModificacionesReglamento contextRef="FIM_S22020_V-66247677_da">false</iic-com-fon:OperacionesVinculadasModificacionesReglamento>
+                <iic-com:OperacionesVinculadasMismoGrupoDepoGest contextRef="FIM_S22020_V-66247677_da">false</iic-com:OperacionesVinculadasMismoGrupoDepoGest>
+                <iic-com:OperacionesVinculadasOperacionesConDepositario contextRef="FIM_S22020_V-66247677_da">true</iic-com:OperacionesVinculadasOperacionesConDepositario>
+                <iic-com:OperacionesVinculadasAvales contextRef="FIM_S22020_V-66247677_da">false</iic-com:OperacionesVinculadasAvales>
+                <iic-com:OperacionesVinculadasContrapartidaEnGrupo contextRef="FIM_S22020_V-66247677_da">false</iic-com:OperacionesVinculadasContrapartidaEnGrupo>
+                <iic-com:OperacionesVinculadasIngresosEnElGrupo contextRef="FIM_S22020_V-66247677_da">true</iic-com:OperacionesVinculadasIngresosEnElGrupo>
+                <iic-com:OperacionesVinculadasOtros contextRef="FIM_S22020_V-66247677_da">false</iic-com:OperacionesVinculadasOtros>
+            </iic-fim:OperacionesVinculadasFIM>
+            <iic-com:AnexoOperacionesVinculadas contextRef="FIM_S22020_V-66247677_da">Durante el semestre se han efectuado operaciones de pacto de recompra con la Entidad Depositaria por importe de 132,783 millones de euros en concepto de compra, el 21,72% del patrimonio medio, y por importe de 133,080 millones de euros en concepto de venta, que supone un 21,77% del patrimonio medio. A efectos del cumplimiento de obligación de comunicación por adquisiciones de participaciones significativas, se publica que 1 participe posee el 76,77% de las participaciones de 1 KESSLER GLOBAL, FI. Durante el período, los ingresos percibidos por entidades del grupo al que pertenece la gestora y que tienen como origen comisiones satisfechas por la IIC han ascendido a 245,32 euros,  lo que supone un 0,007% del patrimonio medio de la IIC.
+</iic-com:AnexoOperacionesVinculadas>
+            <iic-com:ExplicacionInformePeriodico contextRef="FIM_S22020_V-66247677_da">
+1. SITUACION DE LOS MERCADOS Y EVOLUCIÓN DEL FONDO.
+
+a) Visión de la gestora sobre la situación de los mercados.
+Desde la primavera de 2020, las bolsas de Estados Unidos han marcado un ritmo imparable al alza. Primero, consiguieron cerrar todo el descenso ocasionado por el golpe del Covid-19 y, posteriormente, a partir de octubre, empujaron de nuevo las cotizaciones a terrenos de máximos históricos. 
+Las perspectivas de las casas de valores de Wall Street apuntan a una continuación de la tendencia alcista, expectativas apoyadas por la creencia en una recuperación solida de las economías occidentales. Todo ello soportado por unos bancos centrales que siguen apuntando a una continuación en sus programas de compra de deuda pública y soberana y unos gobiernos que anuncian una aceleración de sus políticas fiscales expansivas para compensar los efectos de la pandemia mundial sobre la economía real.
+El enfoque de las instituciones multilaterales internacionales es distinto. Tanto el FMI, la OCDE, el BIS y el Banco Mundial presentan unas expectativas para el crecimiento económico mundial mucho más moderado y con mucha cautela y precaución. Los efectos del Covid-19 sobre la economía real son más intensos que lo esperado, especialmente cuando la pandemia parece complicarse en el tiempo, con nuevas oleadas de contagio y cuando la vacunación total de la población parece retardarse al año 2022.
+¿Cómo es posible que exista una divergencia tan alta entre el mundo financiero y los departamentos macroeconómicos de los organismos internacionales? Muchos analistas apuntan a una deshumanización de las operaciones de compra y venta de valores.  El crecimiento de la gestión pasiva y el desarrollo de programas cuantitativos para la intermediación diaria de los mercados ha hecho que el aspecto humano en la toma de decisiones haya descendido significativamente y la presencia de la inteligencia artificial haya ganado un espacio relevante. Como apunta el gestor de fondo Lemanik Global Strategy Fund, Maurizio Novelli, los ordenadores parten de unas hipótesis de partida que condicionan toda la toma de decisiones, pero no son capaces de interpretar matices de valoración en los datos macro que se publican a lo largo del tiempo. Podríamos tomar un ejemplo para entender la profundidad de los efectos del cambio del trader humano al trader artificial: La irrupción del Covid-19 generó un desempleo en Estados Unidos de 22 millones de personas. Sin embargo, 16 millones quedaron incluidos dentro de programas temporales de apoyo económico, por lo que solo 6 millones quedaron registrados en el concepto tradicional de población desempleada. En España, esta situación ha quedado reflejado en los famosos ERTEs, en el que no se despide, sino que se suspende su trabajo durante un plazo temporal reducido. En realidad, la extensión de los efectos económicos sobre las empresas del impacto Covid-19 a lo largo de los meses, ha hecho que la probabilidad de recuperar el empleo en suspensión temporal vaya en un camino, desgraciadamente, descendente, con probabilidad elevada de cierre de empresas.  La tasa de desempleo tendrá que aumentar simplemente por el efecto de un cambio entre los catalogados como temporales a los catalogados como definitivos. Los programas cuantitativos de trading no son capaces de evaluar esta situación, mientras que los macroeconomistas sí. De esta forma, si un programa de trading recoge que el desempleo está solo en los 6 millones de trabajadores, en lugar de los 22 millones y, a su vez, recoge programas de estímulo monetario fiscal en niveles nunca vistos, la respuesta de la inteligencia artificial es recomendar compra masiva ante un mercado muy alcista.
+La realidad no es la que los ordenadores parecen apuntar. Los departamentos macroeconómicos señalan otro camino para la economía, por lo que es probable que las expectativas de las casas de valores para la evolución de las bolsas en 2021 no puedan cumplirse. Si esto fuera cierto, la punta del iceberg en los mercados de valores quedará al descubierto. Un ajuste técnico en las variables que configuran la base del programa cuantitativo podrá acelerar un cambio abrupto en la tendencia actual del mercado
+
+
+b) Decisiones generales de inversión adoptadas.
+
+Después de seguir durante los últimos meses una política de inversión consistente, manteniendo el posicionamiento estable con una posición negativa (del 80-90%) en el mercado americano, así como una posición larga en volatilidad, el fondo decidió en marzo reducir su exposición a medida que los mercados iban bajando y la volatilidad subiendo. 
+Con la vuelta alcista en los mercados, el fondo se ha estado volviendo a posicionar a la baja del mercado americano, incrementando está exposición este último trimestre (80-95%). Adicionalmente se ha entrado en algunos fondos conservadores de renta fija elevando la exposición invertida al 50%. Por el momento no se ha vuelto a invertir en ningún fondo de volatilidad después de desinvertirlo en el pico de marzo.
+
+
+c) Índice de referencia.
+
+La IIC se gestiona activamente conforme a sus objetivos y política de inversión, de forma que su gestión no está vinculada ni limitada por ningún índice de referencia.
+La rentabilidad neta de la IIC en el periodo ha sido del -16,66%. En el mismo periodo el índice de referencia ha obtenido una rentabilidad de 2%.
+
+
+d) Evolución del Patrimonio, participes, rentabilidad y gastos de la IIC.
+
+Durante el periodo el patrimonio de la IIC ha registrado una variación negativa del -18,85% y el número de partícipes ha registrado una variación positiva de 20 participes, lo que supone una variación del 22,99%.   La rentabilidad neta de la IIC durante el periodo ha sido del -16,66%, con un impacto total de los gastos soportados en el mismo período del 0,95%. 1 KESSLER GLOBAL FI invierte más de un 10% en otras IIC y, por tanto, satisface tasas de gestión en las IIC de la cartera. Los gastos indirectos soportados por la inversión en otras IIC's  durante el periodo ascienden a 0,22% del patrimonio medio del fondo.
+
+e) Rendimiento del fondo en comparación con el resto de fondos de la gestora.
+
+
+La IIC ha obtenido una rentabilidad neta en el periodo de un -16,66%, a su vez durante el mismo periodo el conjunto de fondos gestionados por GVC Gaesco Gestión SGIIC, S.A. ha registrado una rentabilidad media durante el periodo del  10,33%.
+En el cuadro del apartado 2.2.B) del informe  se puede consultar el rendimiento medio de los fondos agruapados en funcion de su vocación gestora.
+
+2. INFORMACION SOBRE LAS INVERSIONES.
+
+a) Inversiones concretas realizadas durante el periodo.
+Durante este período el fondo no ha hecho Inversiones concretas más allà de hacer los rollover de sus posiciones cortas en futuros de los principales índices americanos. 
+Con la subida del mercado, esta exposición corta ha aumentado hasta niveles de 80-95% de exposición corta, que el fondo no ha ajustado al creer que la senda bajista està por venir. Los únicos movimientos del fondo han sido para ajustar las posiciones de futuros y mantener la exposición corta en el nivel fijado del 80-95%.
+
+Los activos que han aportado mayor rentabilidad en el periodo han sido: BNY MELLON GLOBAL REAL RETURN EUR FUND, STANDARD LIFE INV GLOBAL FUND, CANDRIAM INDEX ARBITRAGE R FUND. Los activos que han restado mayor rentabilidad en el periodo han sido: LEMANIK GLOBAL STRATEGY SICAV, AMUNDI CASH EUR ME FUND, GROUPAMA ENTERPRISES FUND.
+
+b) Operativa de préstamo de valores.
+
+   La IIC no ha realizado durante el periodo operativa de préstamos de valores.
+
+c) Operativa en derivados y adquisición temporal de activos.
+
+Durante el semestre se han realizado operaciones con instrumentos derivados, con finalidad de inversión, en futuros sobre Nasdaq, futuros sobre mini S&amp;P, futuros sobre mini Dow Jones que han proporcionado un resultado global negativo de 580.341,81 euros. El nominal comprometido en instrumentos derivados suponía al final del semestre un 96,72% del patrimonio de la IIC.
+Durante el periodo se han efectuado operaciones de compra-venta de Deuda Pública con pacto de recompra (repos) con  distintas entidades por importe de 265,86263856 millones de euros, que supone un 43,5% del patrimonio medio.
+El apalancamiento medio del fondo durante el periodo ha sido del 85,26%.
+La remuneración media obtenida por la liquidez mantenida por la IIC durante el periodo ha sido del -0,4%.
+
+
+d) Otra información sobre inversiones.
+
+ En cuanto a productos estrucutrados, activos en litigio o activos que se incluyan en el artículo 48.1j del RIIC, la IIC no posee ninguno.
+
+3. EVOLUCION DEL OBJETIVO CONCRETO DE RENTABILIDAD.
+
+N/A
+
+4. RIESGO ASUMIDO POR EL FONDO. 
+
+La Volatilidad de la IIC en el periodo ha sido del 15,31%. En el mismo periodo el índice de referencia ha registrado una volatilidad del 2,45%. El VaR de final de periodo a 30 sesiones con un nivel de confianza del 99%, es de un 5,98%.
+GVC Gaesco Gestión SGIIC analiza la profundidad del mercado de los valores en que invierte la IIC, considerando la negociación habitual y el volumen invertido. En condiciones normales se tardaría 0,69 días en liquidar el 90% de la cartera invertida. 
+
+5. EJERCICIO DERECHOS POLITICOS.
+
+El ejercicio de los derechos políticos y económicos inherentes a los valores que integren las carteras de las IIC gestionadas por GVC Gaesco Gestión SGIIC se ha hecho, en todo caso, en interés exclusivo de los socios y partícipes de las IIC.  GVC Gaesco Gestión SGIIC ha ejercido el derecho de asistencia y voto en las juntas generales que se celebraron en Barcelona y cercanías de aquellas empresas que estaban en las carteras de las IIC gestionadas con independencia del porcentaje del capital que se tuviera de las mismas; de sociedades españolas en las que la posición global de las IIC gestionadas por esta entidad gestora fuera mayor o igual al 1 por 100 de su capital social y tuvieran una antigüedad superior a doce meses. Adicionalmente la Sociedad Gestora también ha ejercido el derecho de asistencia y voto en aquellos casos en que, no dándose las circunstancias anteriores, el emisor se hubiera considerado relevante o existieran derechos económicos a favor de los inversores, tales como primas de asistencia a juntas. Para el resto, en aquellas empresas cuyos derechos políticos pudieran ser ejercidos a través de medios telemáticos, se ha procedido a utilizar dichos medios para emitir el voto y, en su defecto, se han dado las instrucciones oportunas a la Entidad Depositaria. El sentido del voto durante este periodo ha sido a favor de todas las propuestas del orden del día, en todas las juntas.
+
+6. INFORMACION Y ADVERTENCIAS CNMV.
+N/A
+
+
+7. ENTIDADES BENEFICIARIAS DEL FONDO SOLIDARIO E IMPORTE CEDIDO A
+LAS MISMAS.
+N/A
+
+8. COSTES DERIVADOS DEL SERVICIO DE ANALISIS.
+
+Durante el periodo la IIC no ha soportado costes derivados del servicio de análisis.
+
+9. COMPARTIMENTOS DE PROPOSITO ESPECIAL (SIDE POCKETS).
+N/A
+
+10. PERSPECTIVAS DE MERCADO Y ACTUACION PREVISIBLE DEL FONDO.
+El Fondo Monetario Internacional considera que el mercado financiero se encuentra en un entorno de complacencia frente a los datos macroeconómicos y de exuberancia en las cotizaciones de las empresas. Esto no parece importar a los agentes del mercado y el volumen de compradores parece hacer alcanzado sus cotas más elevadas. 
+El resultado es un escenario en el que los máximos duran poco, pues cada nuevo empuje nos conduce a nuevas cotas aún más elevadas.  
+En el índice Dow Jones, las cotas han alcanzado los 31.272 puntos En el índice Nasdaq 100 el máximo registrado es 13.728 puntos, ambos ya en enero de 2021. 
+En Kessler Global consideramos que la exuberancia y el modo complaciente es una fórmula que antecede las grandes correcciones. En los momentos actuales un simple ajuste sano puede conducir a los índices a cotas un 20% desde los máximos registrados. Cualquier evento que tuerza las expectativas macroeconómicas puede ocasionar descensos mayores. 
+Es cierto que el apoyo de los bancos centrales y las políticas fiscales ultraexpansivas actúan en un primer momento como ?un seguro? contra las caídas de mercado. Sin embargo, todo el entorno de la denominada Teoría Monetaria Moderna, con su apuesta por una monetización sin fin, puede quebrarse en la medida que se observe que, en realidad, toda la intervención no ha tenido efecto real sobre la economía y que todo su efecto se ha limitado a retrasar un cambio estructural del sistema actual.  Este escenario sería sin duda mucho peor, por lo que, de momento, preferimos descartarlo.
+Así pues, nuestro escenario de inversión sigue siendo el de mantener la posición contraria al mercado, con la incorporación de alguna nueva estrategia larga mediante fondos de inversión.
+</iic-com:ExplicacionInformePeriodico>
+            <iic-com:AdvertenciasCNMV contextRef="FIM_S22020_V-66247677_da">No aplicable
+</iic-com:AdvertenciasCNMV>
+            <iic-com:InformacionPoliticaRemuneracion contextRef="FIM_S22020_V-66247677_da">Datos cuantitativos: Durante el año 2020 la Entidad Gestora ha satisfecho una remuneración total al personal, incluyendo los costes de Seguridad Social, de 2.435.382,80 euros, con un total de 35 beneficiarios. De este importe, 2.325.312,80 (95,5%) euros corresponden a remuneración fija, y 110.070,0 (4,5%) euros corresponden a remuneración variable. En total 14 personas han recibido la remuneración variable. El 73% de la remuneración variable ha sido en concepto de gestión de inversiones, sin estar directamente ligada a ninguna comisión de gestión variable de las IICs en particular, sino a la consecución general de los objetivos de gestión, en especial el batir a los índices de referencia. Los ocho altos cargos de la gestora han percibido una remuneración fija, con coste de la Seguridad Social incluida, de 841.620,26  euros (el 4,6% del total), y una remuneración variable de 38.320 euros (el 34,8% del total). Los empleados con incidencia en el perfil de riesgo de las IICs han sido 16, y han percibido una remuneración fija, coste de la Seguridad social incluida, de 1.139.764,01 euros, y una remuneración variable de 80.570,00 euros.
+
+Datos cualitativos:  La remuneración del personal con incidencia en el perfil de riesgo de las IICs consta de dos apartados, uno de cualitativo, en función, prioritariamente, de las aportaciones realizadas al Comité de Inversiones de la Gestora, y otro de cuantitativo, cuyo indicador principal es la comparativa de la rentabilidad de las IICs gestionadas con su correspondiente índice de referencia a tres periodos distintos: un año, tres años, y cinco años, de forma equiponderada. Son estas las remuneraciones variables prioritarias y, a menudo, únicas de la gestora. El resto de colectivo puede tener remuneraciones variables en función de la consecución de ciertos objetivos de carácter binario, no cuantificable.  La política de remuneraciones de la Gestora se engloba dentro de la Política de Remuneraciones del Grupo Hacve. La política de remuneración es compatible con una gestión adecuada y eficaz del riesgo, y no ofrece incentivos para asumir riesgos que rebasen en el nivel de riesgo tolerado. Es compatible con la estrategia empresarial, los objetivos, los valores y los intereses a largo plazo de las entidades, e incluye medidas para evitar los conflictos de intereses. Además tiene en cuenta las tendencias del mercado y se posiciona frente al mismo de acuerdo al planteamiento estratégico de las entidades. El esquema de retribución establecido se basa en la percepción de una retribución fija establecida con carácter anual, y una parte variable anual que consistirá en un porcentaje que no podrá ser superior a la retribución fija establecida, estando la parte variable sujeta al cumplimiento de una serie de condiciones o requisitos genéricos y/o específicos. El sistema de retribución variable se establece en base a objetivos, y se orienta a la consecución de los mejores resultados, tanto cuantitativos como cualitativos.
+</iic-com:InformacionPoliticaRemuneracion>
+        </iic-fim:DatosFondoCompartimentoFIM>
+    </iic-fim:InformeFIM>
+    <iic-ges:ComparativaRentabilidadMedia>
+        <iic-ges:ComparativaVocacionRentaFijaEuroPatrimonio contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">137756972</iic-ges:ComparativaVocacionRentaFijaEuroPatrimonio>
+        <iic-ges:ComparativaVocacionRentaFijaEuroParticipes contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="pure">14157</iic-ges:ComparativaVocacionRentaFijaEuroParticipes>
+        <iic-ges:ComparativaVocacionRentaFijaEuroRentabilidad contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">-0.07</iic-ges:ComparativaVocacionRentaFijaEuroRentabilidad>
+        <iic-ges:ComparativaVocacionRentaFijaInternacionalPatrimonio contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">40743430</iic-ges:ComparativaVocacionRentaFijaInternacionalPatrimonio>
+        <iic-ges:ComparativaVocacionRentaFijaInternacionalParticipes contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="pure">915</iic-ges:ComparativaVocacionRentaFijaInternacionalParticipes>
+        <iic-ges:ComparativaVocacionRentaFijaInternacionalRentabilidad contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">4.65</iic-ges:ComparativaVocacionRentaFijaInternacionalRentabilidad>
+        <iic-ges:ComparativaVocacionMixtoEuroPatrimonio contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">42102784</iic-ges:ComparativaVocacionMixtoEuroPatrimonio>
+        <iic-ges:ComparativaVocacionMixtoEuroParticipes contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="pure">918</iic-ges:ComparativaVocacionMixtoEuroParticipes>
+        <iic-ges:ComparativaVocacionMixtoEuroRentabilidad contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">2.52</iic-ges:ComparativaVocacionMixtoEuroRentabilidad>
+        <iic-ges:ComparativaVocacionMixtoInternacionalPatrimonio contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">0</iic-ges:ComparativaVocacionMixtoInternacionalPatrimonio>
+        <iic-ges:ComparativaVocacionMixtoInternacionalParticipes contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="pure">0</iic-ges:ComparativaVocacionMixtoInternacionalParticipes>
+        <iic-ges:ComparativaVocacionMixtoInternacionalRentabilidad contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-ges:ComparativaVocacionMixtoInternacionalRentabilidad>
+        <iic-ges:ComparativaVocacionRentaVariableMixtaEuroPatrimonio contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">19979358</iic-ges:ComparativaVocacionRentaVariableMixtaEuroPatrimonio>
+        <iic-ges:ComparativaVocacionRentaVariableMixtaEuroParticipes contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="pure">402</iic-ges:ComparativaVocacionRentaVariableMixtaEuroParticipes>
+        <iic-ges:ComparativaVocacionRentaVariableMixtaEuroRentabilidad contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">12.15</iic-ges:ComparativaVocacionRentaVariableMixtaEuroRentabilidad>
+
+        <iic-ges:ComparativaVocacionRentaVariableMixtaInternacionalPatrimonio contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">93410845</iic-ges:ComparativaVocacionRentaVariableMixtaInternacionalPatrimonio>
+
+        <iic-ges:ComparativaVocacionRentaVariableMixtaInternacionalParticipes contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="pure">2440</iic-ges:ComparativaVocacionRentaVariableMixtaInternacionalParticipes>
+
+        <iic-ges:ComparativaVocacionRentaVariableMixtaInternacionalRentabilidad contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">10.03</iic-ges:ComparativaVocacionRentaVariableMixtaInternacionalRentabilidad>
+        <iic-ges:ComparativaVocacionRentaVariableEuroPatrimonio contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">65592304</iic-ges:ComparativaVocacionRentaVariableEuroPatrimonio>
+        <iic-ges:ComparativaVocacionRentaVariableEuroParticipes contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="pure">3486</iic-ges:ComparativaVocacionRentaVariableEuroParticipes>
+        <iic-ges:ComparativaVocacionRentaVariableEuroRentabilidad contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">14.40</iic-ges:ComparativaVocacionRentaVariableEuroRentabilidad>
+        <iic-ges:ComparativaVocacionRentaVariableInternacionalPatrimonio contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">187575946</iic-ges:ComparativaVocacionRentaVariableInternacionalPatrimonio>
+        <iic-ges:ComparativaVocacionRentaVariableInternacionalParticipes contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="pure">9803</iic-ges:ComparativaVocacionRentaVariableInternacionalParticipes>
+
+        <iic-ges:ComparativaVocacionRentaVariableInternacionalRentabilidad contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">19.00</iic-ges:ComparativaVocacionRentaVariableInternacionalRentabilidad>
+        <iic-ges:ComparativaVocacionIICGestionReferenciadaPatrimonio contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">0</iic-ges:ComparativaVocacionIICGestionReferenciadaPatrimonio>
+        <iic-ges:ComparativaVocacionIICGestionReferenciadaParticipes contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="pure">0</iic-ges:ComparativaVocacionIICGestionReferenciadaParticipes>
+        <iic-ges:ComparativaVocacionIICGestionReferenciadaRentabilidad contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-ges:ComparativaVocacionIICGestionReferenciadaRentabilidad>
+        <iic-ges:ComparativaVocacionGarantizadoRendimientoFijoPatrimonio contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">0</iic-ges:ComparativaVocacionGarantizadoRendimientoFijoPatrimonio>
+        <iic-ges:ComparativaVocacionGarantizadoRendimientoFijoParticipes contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="pure">0</iic-ges:ComparativaVocacionGarantizadoRendimientoFijoParticipes>
+
+        <iic-ges:ComparativaVocacionGarantizadoRendimientoFijoRentabilidad contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-ges:ComparativaVocacionGarantizadoRendimientoFijoRentabilidad>
+
+        <iic-ges:ComparativaVocacionGarantizadoRendimientoVariablePatrimonio contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">0</iic-ges:ComparativaVocacionGarantizadoRendimientoVariablePatrimonio>
+
+        <iic-ges:ComparativaVocacionGarantizadoRendimientoVariableParticipes contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="pure">0</iic-ges:ComparativaVocacionGarantizadoRendimientoVariableParticipes>
+
+        <iic-ges:ComparativaVocacionGarantizadoRendimientoVariableRentabilidad contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-ges:ComparativaVocacionGarantizadoRendimientoVariableRentabilidad>
+        <iic-ges:ComparativaVocacionGarantiaParcialPatrimonio contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">0</iic-ges:ComparativaVocacionGarantiaParcialPatrimonio>
+        <iic-ges:ComparativaVocacionGarantiaParcialParticipes contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="pure">0</iic-ges:ComparativaVocacionGarantiaParcialParticipes>
+        <iic-ges:ComparativaVocacionGarantiaParcialRentabilidad contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-ges:ComparativaVocacionGarantiaParcialRentabilidad>
+        <iic-ges:ComparativaVocacionRetornoAbsolutoPatrimonio contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">104119122</iic-ges:ComparativaVocacionRetornoAbsolutoPatrimonio>
+        <iic-ges:ComparativaVocacionRetornoAbsolutoParticipes contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="pure">3405</iic-ges:ComparativaVocacionRetornoAbsolutoParticipes>
+        <iic-ges:ComparativaVocacionRetornoAbsolutoRentabilidad contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">8.98</iic-ges:ComparativaVocacionRetornoAbsolutoRentabilidad>
+        <iic-ges:ComparativaVocacionGlobalPatrimonio contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">73906214</iic-ges:ComparativaVocacionGlobalPatrimonio>
+        <iic-ges:ComparativaVocacionGlobalParticipes contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="pure">1067</iic-ges:ComparativaVocacionGlobalParticipes>
+        <iic-ges:ComparativaVocacionGlobalRentabilidad contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">13.49</iic-ges:ComparativaVocacionGlobalRentabilidad>
+
+        <iic-ges:ComparativaVocacionFMMCortoPlazoValorLiquidativoVariablePatrimonio contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">0</iic-ges:ComparativaVocacionFMMCortoPlazoValorLiquidativoVariablePatrimonio>
+
+        <iic-ges:ComparativaVocacionFMMCortoPlazoValorLiquidativoVariableParticipes contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="pure">0</iic-ges:ComparativaVocacionFMMCortoPlazoValorLiquidativoVariableParticipes>
+
+        <iic-ges:ComparativaVocacionFMMCortoPlazoValorLiquidativoVariableRentabilidad contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-ges:ComparativaVocacionFMMCortoPlazoValorLiquidativoVariableRentabilidad>
+
+        <iic-ges:ComparativaVocacionFMMCortoPlazoValorLiquidativoConstanteDeudaPublicaPatrimonio contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">0</iic-ges:ComparativaVocacionFMMCortoPlazoValorLiquidativoConstanteDeudaPublicaPatrimonio>
+
+        <iic-ges:ComparativaVocacionFMMCortoPlazoValorLiquidativoConstanteDeudaPublicaParticipes contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="pure">0</iic-ges:ComparativaVocacionFMMCortoPlazoValorLiquidativoConstanteDeudaPublicaParticipes>
+
+        <iic-ges:ComparativaVocacionFMMCortoPlazoValorLiquidativoConstanteDeudaPublicaRentabilidad contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-ges:ComparativaVocacionFMMCortoPlazoValorLiquidativoConstanteDeudaPublicaRentabilidad>
+
+        <iic-ges:ComparativaVocacionFMMCortoPlazoValorLiquidativoBajaVolatilidadPatrimonio contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">0</iic-ges:ComparativaVocacionFMMCortoPlazoValorLiquidativoBajaVolatilidadPatrimonio>
+
+        <iic-ges:ComparativaVocacionFMMCortoPlazoValorLiquidativoBajaVolatilidadParticipes contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="pure">0</iic-ges:ComparativaVocacionFMMCortoPlazoValorLiquidativoBajaVolatilidadParticipes>
+
+        <iic-ges:ComparativaVocacionFMMCortoPlazoValorLiquidativoBajaVolatilidadRentabilidad contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-ges:ComparativaVocacionFMMCortoPlazoValorLiquidativoBajaVolatilidadRentabilidad>
+
+        <iic-ges:ComparativaVocacionFMMEstandarValorLiquidativoVariablePatrimonio contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">0</iic-ges:ComparativaVocacionFMMEstandarValorLiquidativoVariablePatrimonio>
+
+        <iic-ges:ComparativaVocacionFMMEstandarValorLiquidativoVariableParticipes contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="pure">0</iic-ges:ComparativaVocacionFMMEstandarValorLiquidativoVariableParticipes>
+
+        <iic-ges:ComparativaVocacionFMMEstandarValorLiquidativoVariableRentabilidad contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-ges:ComparativaVocacionFMMEstandarValorLiquidativoVariableRentabilidad>
+        <iic-ges:ComparativaVocacionRentaFijaEuroCortoPlazoPatrimonio contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">0</iic-ges:ComparativaVocacionRentaFijaEuroCortoPlazoPatrimonio>
+        <iic-ges:ComparativaVocacionRentaFijaEuroCortoPlazoParticipes contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="pure">0</iic-ges:ComparativaVocacionRentaFijaEuroCortoPlazoParticipes>
+        <iic-ges:ComparativaVocacionRentaFijaEuroCortoPlazoRentabilidad contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-ges:ComparativaVocacionRentaFijaEuroCortoPlazoRentabilidad>
+        <iic-ges:ComparativaVocacionIICQueReplicaUnIndicePatrimonio contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">0</iic-ges:ComparativaVocacionIICQueReplicaUnIndicePatrimonio>
+        <iic-ges:ComparativaVocacionIICQueReplicaUnIndiceParticipes contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="pure">0</iic-ges:ComparativaVocacionIICQueReplicaUnIndiceParticipes>
+        <iic-ges:ComparativaVocacionIICQueReplicaUnIndiceRentabilidad contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-ges:ComparativaVocacionIICQueReplicaUnIndiceRentabilidad>
+
+        <iic-ges:ComparativaVocacionIICConObjetivoConcretoDeRentabilidadNoGarantizadoPatrimonio contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">0</iic-ges:ComparativaVocacionIICConObjetivoConcretoDeRentabilidadNoGarantizadoPatrimonio>
+
+        <iic-ges:ComparativaVocacionIICConObjetivoConcretoDeRentabilidadNoGarantizadoParticipes contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="pure">0</iic-ges:ComparativaVocacionIICConObjetivoConcretoDeRentabilidadNoGarantizadoParticipes>
+
+        <iic-ges:ComparativaVocacionIICConObjetivoConcretoDeRentabilidadNoGarantizadoRentabilidad contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">0.00</iic-ges:ComparativaVocacionIICConObjetivoConcretoDeRentabilidadNoGarantizadoRentabilidad>
+        <iic-ges:ComparativaVocacionTotalPatrimonio contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="EUR">765186975</iic-ges:ComparativaVocacionTotalPatrimonio>
+        <iic-ges:ComparativaVocacionTotalParticipes contextRef="FIM_S22020_V-66247677_da" decimals="0" unitRef="pure">36593</iic-ges:ComparativaVocacionTotalParticipes>
+        <iic-ges:ComparativaVocacionTotalRentabilidad contextRef="FIM_S22020_V-66247677_da" decimals="2" unitRef="pure">10.33</iic-ges:ComparativaVocacionTotalRentabilidad>
+    </iic-ges:ComparativaRentabilidadMedia>
+</xbrli:xbrl>
