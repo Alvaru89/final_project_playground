@@ -330,3 +330,494 @@ console.log: WebExtensions: reset-default-search: No addons in our list are inst
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1617283979214	geckodriver	INFO	Listening on 127.0.0.1:51877
+1617283979218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1MUXnB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617283988587	Marionette	INFO	Listening on port 40941
+1617283988747	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617284107336	geckodriver	INFO	Listening on 127.0.0.1:39513
+1617284107339	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ3MP7W"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617284112380	Marionette	INFO	Listening on port 46527
+1617284112468	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617284259262	geckodriver	INFO	Listening on 127.0.0.1:42681
+1617284259266	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQouKNx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617284263867	Marionette	INFO	Listening on port 39297
+1617284263892	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617284302681	geckodriver	INFO	Listening on 127.0.0.1:58643
+1617284302685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMEmkO3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617284307261	Marionette	INFO	Listening on port 36647
+1617284307319	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617284350327	geckodriver	INFO	Listening on 127.0.0.1:57933
+1617284350330	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUkQCTz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617284355188	Marionette	INFO	Listening on port 40559
+1617284355258	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617284371408	geckodriver	INFO	Listening on 127.0.0.1:44963
+1617284371412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDnid5I"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617284376601	Marionette	INFO	Listening on port 39953
+1617284376644	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617285002637	geckodriver	INFO	Listening on 127.0.0.1:53561
+1617285002641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEEUVY6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617285007345	Marionette	INFO	Listening on port 37579
+1617285007378	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+1617285100020	geckodriver	INFO	Listening on 127.0.0.1:58139
+1617285100023	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJJahOq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617285105379	Marionette	INFO	Listening on port 34653
+1617285105456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+1617285195171	geckodriver	INFO	Listening on 127.0.0.1:41533
+1617285195175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL3TEvI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617285199995	Marionette	INFO	Listening on port 40617
+1617285200102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617285243034	geckodriver	INFO	Listening on 127.0.0.1:36557
+1617285243037	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaAF8lO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617285247674	Marionette	INFO	Listening on port 34241
+1617285247763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+1617285391774	Marionette	INFO	Stopped listening on port 34241
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617285400323	geckodriver	INFO	Listening on 127.0.0.1:43409
+1617285400327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRssvuP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617285404869	Marionette	INFO	Listening on port 41215
+1617285404954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617285482664	geckodriver	INFO	Listening on 127.0.0.1:34603
+1617285482668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletIqpSQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617285487342	Marionette	INFO	Listening on port 43117
+1617285487401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617383486294	geckodriver	INFO	Listening on 127.0.0.1:42077
+1617383487221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP5Pq1e"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617383513681	Marionette	INFO	Listening on port 45011
+1617383513813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617383513849	geckodriver	INFO	Listening on 127.0.0.1:53093
+1617383513853	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexcZGRW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617383528419	Marionette	INFO	Listening on port 36171
+1617383528502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+1617383545462	geckodriver	INFO	Listening on 127.0.0.1:39085
+1617383545465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA0NQVB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617383561617	Marionette	INFO	Listening on port 33905
+1617383561705	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+1617383573914	geckodriver	INFO	Listening on 127.0.0.1:38589
+1617383573993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileovQbeT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617383593141	Marionette	INFO	Listening on port 45497
+1617383593241	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617384457433	geckodriver	INFO	Listening on 127.0.0.1:38567
+1617384457437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOSQsXs"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617384466062	geckodriver	INFO	Listening on 127.0.0.1:44773
+1617384467125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMgBh1X"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617384477617	Marionette	INFO	Listening on port 40271
+1617384477684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617384520972	geckodriver	INFO	Listening on 127.0.0.1:39641
+1617384520975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP0ma7C"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617384531835	Marionette	INFO	Listening on port 46145
+1617384531929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617384544495	geckodriver	INFO	Listening on 127.0.0.1:57715
+1617384544533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC9JyLY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617384557654	Marionette	INFO	Listening on port 46771
+1617384557679	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617384631319	geckodriver	INFO	Listening on 127.0.0.1:55379
+1617384631342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBnjf5z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1617384648566	Marionette	INFO	Listening on port 39727
+1617384648596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617384672126	geckodriver	INFO	Listening on 127.0.0.1:49741
+1617384672159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen0OLen"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1617384690612	Marionette	INFO	Listening on port 40923
+1617384690719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617384857001	geckodriver	INFO	Listening on 127.0.0.1:36825
+1617384857023	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGI5cX0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1617384875050	Marionette	INFO	Listening on port 42885
+1617384875165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617385068271	geckodriver	INFO	Listening on 127.0.0.1:48167
+1617385068290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley8y29F"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617385079034	Marionette	INFO	Listening on port 34335
+1617385079138	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617385115607	geckodriver	INFO	Listening on 127.0.0.1:33167
+1617385115624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTJh44e"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617385126649	Marionette	INFO	Listening on port 35183
+1617385126771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+1617385488127	geckodriver	INFO	Listening on 127.0.0.1:46119
+1617385488131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ7A5sb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617385501877	Marionette	INFO	Listening on port 46381
+1617385501969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617385560571	Marionette	INFO	Stopped listening on port 46381
+1617385564661	Marionette	INFO	Stopped listening on port 35183
+1617385763949	geckodriver	INFO	Listening on 127.0.0.1:60119
+1617385763966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXzb6mK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617385775709	Marionette	INFO	Listening on port 36085
+1617385775818	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617386191989	Marionette	INFO	Stopped listening on port 36085
+1617386200154	geckodriver	INFO	Listening on 127.0.0.1:36087
+1617386200194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletFp1ay"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617386211075	Marionette	INFO	Listening on port 36271
+1617386211131	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 133ms)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617386398011	geckodriver	INFO	Listening on 127.0.0.1:41273
+1617386399020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5YxStj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617386413494	Marionette	INFO	Listening on port 34579
+1617386413560	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617386766125	geckodriver	INFO	Listening on 127.0.0.1:50475
+1617386766157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZEc64Z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617386777246	Marionette	INFO	Listening on port 40711
+1617386777284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+1617386791884	Marionette	INFO	Stopped listening on port 40711
+1617387078851	geckodriver	INFO	Listening on 127.0.0.1:41053
+1617387078867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5YEBO0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617387090598	Marionette	INFO	Listening on port 45965
+1617387090717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617387511804	geckodriver	INFO	Listening on 127.0.0.1:53017
+1617387511821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebwBq2j"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617387522959	Marionette	INFO	Listening on port 45905
+1617387523055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617387557542	geckodriver	INFO	Listening on 127.0.0.1:35099
+1617387557561	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefYvPGM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617387568600	Marionette	INFO	Listening on port 33117
+1617387568697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617387616740	geckodriver	INFO	Listening on 127.0.0.1:59227
+1617387616780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevgzjUy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617387629322	Marionette	INFO	Listening on port 33965
+1617387629437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617394404479	geckodriver	INFO	Listening on 127.0.0.1:44683
+1617394404500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledcULZf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617394415387	Marionette	INFO	Listening on port 38497
+1617394415451	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+1617394445302	geckodriver	INFO	Listening on 127.0.0.1:39479
+1617394445620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM06oIi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617394457264	Marionette	INFO	Listening on port 43417
+1617394457399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+1617394530846	geckodriver	INFO	Listening on 127.0.0.1:52021
+1617394530874	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley5hnAS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617394542007	Marionette	INFO	Listening on port 42481
+1617394542304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+1617394639221	geckodriver	INFO	Listening on 127.0.0.1:48917
+1617394639241	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTGLvQZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617394650502	Marionette	INFO	Listening on port 43403
+1617394650622	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+1617394739690	Marionette	INFO	Stopped listening on port 43403
+1617394739726	Marionette	INFO	Stopped listening on port 43417
+1617394739747	Marionette	INFO	Stopped listening on port 38497
+1617394739751	Marionette	INFO	Stopped listening on port 42481
+1617394739859	geckodriver	INFO	Listening on 127.0.0.1:34079
+1617394740870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOaHcS6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617394752694	Marionette	INFO	Listening on port 35991
+1617394752805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617396176512	geckodriver	INFO	Listening on 127.0.0.1:41789
+1617396176527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZS67ib"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617396188491	Marionette	INFO	Listening on port 46637
+1617396188567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617396203469	geckodriver	INFO	Listening on 127.0.0.1:50223
+1617396203491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePUxmBF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617396217464	Marionette	INFO	Listening on port 44973
+1617396217579	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+1617396533083	geckodriver	INFO	Listening on 127.0.0.1:56399
+1617396533106	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezeMIKO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617396544232	Marionette	INFO	Listening on port 42449
+1617396544448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1617397694996	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617397695093	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617397695282	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617397696010	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617397697686	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D2,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1617397732330	Marionette	INFO	Stopped listening on port 42449
+1617397734607	Marionette	INFO	Stopped listening on port 44973
+1617397734824	Marionette	INFO	Stopped listening on port 35991
+1617397734954	Marionette	INFO	Stopped listening on port 46637
+1617400045429	geckodriver	INFO	Listening on 127.0.0.1:56039
+1617400045457	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledEGsDz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617400057008	Marionette	INFO	Listening on port 35581
+1617400057099	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+1617400119528	geckodriver	INFO	Listening on 127.0.0.1:34571
+1617400119539	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIMaV6F"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617400131179	Marionette	INFO	Listening on port 39927
+1617400131304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+1617400266721	geckodriver	INFO	Listening on 127.0.0.1:42539
+1617400266739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAFsXKj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617400279023	Marionette	INFO	Listening on port 34503
+1617400279089	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1617400898944	geckodriver	INFO	Listening on 127.0.0.1:48203
+1617400898963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejzUbQa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617400911035	Marionette	INFO	Listening on port 37823
+1617400911125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+JavaScript warning: https://www.cnmv.es/Portal/js/custom.js, line 298: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
