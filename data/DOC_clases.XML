@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbrli:xbrl xmlns:iic-fim="http://www.cnmv.es/iic/fim/1-2009/2009-03-31" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:iic-com="http://www.cnmv.es/iic/com/1-2009/2009-03-31" xmlns:dgi-lc-es="http://www.xbrl.org.es/es/2008/dgi/gp/lc-es/2008-01-30" xmlns:iic-com-fon="http://www.cnmv.es/iic/mep/1-2009/2009-03-31" xmlns:ff="http://www.xbrl.org/2005/role/restatedLabel" xmlns:ref="http://www.xbrl.org/2004/ref" xmlns:iic-ges="http://www.cnmv.es/iic/ges/1-2009/2009-03-31" xmlns:dgi-est-gen="http://www.xbrl.org.es/es/2008/dgi/gp/est-gen/2008-01-30" xmlns:dgi-lc-int="http://www.xbrl.org.es/es/2008/dgi/gp/lc-int/2008-01-30" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:dgi-types="http://www.xbrl.org.es/es/2008/dgi/gp/types/2008-01-30" xmlns:xlink="http://www.w3.org/1999/xlink">
+<link:schemaRef xlink:type="simple" xlink:href="iic-fim-2009-03-31.xsd" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"></link:schemaRef>
+<xbrli:context id="FIM_T32015_V-87152088_da">
+<xbrli:entity>
+<xbrli:identifier scheme="http:&#47;&#47;www.cnmv.es&#47;xbrl&#47;iic&#47;V-87152088">ABACO GLOBAL VALUE OPORTUNITIE</xbrli:identifier>
+<xbrli:segment>
+<iic-com:version>1.0.0</iic-com:version>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2015-07-01</xbrli:startDate>
+<xbrli:endDate>2015-09-30</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="FIM_T32015_V-87152088_dpp">
+<xbrli:entity>
+<xbrli:identifier scheme="http:&#47;&#47;www.cnmv.es&#47;xbrl&#47;iic&#47;V-87152088">ABACO GLOBAL VALUE OPORTUNITIE</xbrli:identifier>
+<xbrli:segment>
+<iic-com:version>1.0.0</iic-com:version>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2015-04-01</xbrli:startDate>
+<xbrli:endDate>2015-06-30</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="FIM_T32015_V-87152088_daa">
+<xbrli:entity>
+<xbrli:identifier scheme="http:&#47;&#47;www.cnmv.es&#47;xbrl&#47;iic&#47;V-87152088">ABACO GLOBAL VALUE OPORTUNITIE</xbrli:identifier>
+<xbrli:segment>
+<iic-com:version>1.0.0</iic-com:version>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2015-01-01</xbrli:startDate>
+<xbrli:endDate>2015-09-30</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="FIM_T32015_V-87152088_dpy">
+<xbrli:entity>
+<xbrli:identifier scheme="http:&#47;&#47;www.cnmv.es&#47;xbrl&#47;iic&#47;V-87152088">ABACO GLOBAL VALUE OPORTUNITIE</xbrli:identifier>
+<xbrli:segment>
+<iic-com:version>1.0.0</iic-com:version>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2014-01-01</xbrli:startDate>
+<xbrli:endDate>2014-12-31</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="FIM_T32015_V-87152088_dpq2">
+<xbrli:entity>
+<xbrli:identifier scheme="http:&#47;&#47;www.cnmv.es&#47;xbrl&#47;iic&#47;V-87152088">ABACO GLOBAL VALUE OPORTUNITIE</xbrli:identifier>
+<xbrli:segment>
+<iic-com:version>1.0.0</iic-com:version>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2015-01-01</xbrli:startDate>
+<xbrli:endDate>2015-03-31</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="FIM_T32015_V-87152088_dpq3">
+<xbrli:entity>
+<xbrli:identifier scheme="http:&#47;&#47;www.cnmv.es&#47;xbrl&#47;iic&#47;V-87152088">ABACO GLOBAL VALUE OPORTUNITIE</xbrli:identifier>
+<xbrli:segment>
+<iic-com:version>1.0.0</iic-com:version>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2014-10-01</xbrli:startDate>
+<xbrli:endDate>2014-12-31</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="FIM_T32015_V-87152088_dpy2">
+<xbrli:entity>
+<xbrli:identifier scheme="http:&#47;&#47;www.cnmv.es&#47;xbrl&#47;iic&#47;V-87152088">ABACO GLOBAL VALUE OPORTUNITIE</xbrli:identifier>
+<xbrli:segment>
+<iic-com:version>1.0.0</iic-com:version>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2013-01-01</xbrli:startDate>
+<xbrli:endDate>2013-12-31</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="FIM_T32015_V-87152088_dpy3">
+<xbrli:entity>
+<xbrli:identifier scheme="http:&#47;&#47;www.cnmv.es&#47;xbrl&#47;iic&#47;V-87152088">ABACO GLOBAL VALUE OPORTUNITIE</xbrli:identifier>
+<xbrli:segment>
+<iic-com:version>1.0.0</iic-com:version>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2012-01-01</xbrli:startDate>
+<xbrli:endDate>2012-12-31</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="FIM_T32015_V-87152088_dpy5">
+<xbrli:entity>
+<xbrli:identifier scheme="http:&#47;&#47;www.cnmv.es&#47;xbrl&#47;iic&#47;V-87152088">ABACO GLOBAL VALUE OPORTUNITIE</xbrli:identifier>
+<xbrli:segment>
+<iic-com:version>1.0.0</iic-com:version>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2010-01-01</xbrli:startDate>
+<xbrli:endDate>2010-12-31</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="FIM_T32015_V-87152088_dly3">
+<xbrli:entity>
+<xbrli:identifier scheme="http:&#47;&#47;www.cnmv.es&#47;xbrl&#47;iic&#47;V-87152088">ABACO GLOBAL VALUE OPORTUNITIE</xbrli:identifier>
+<xbrli:segment>
+<iic-com:version>1.0.0</iic-com:version>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2012-01-01</xbrli:startDate>
+<xbrli:endDate>2014-12-31</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="FIM_T32015_V-87152088_dly5">
+<xbrli:entity>
+<xbrli:identifier scheme="http:&#47;&#47;www.cnmv.es&#47;xbrl&#47;iic&#47;V-87152088">ABACO GLOBAL VALUE OPORTUNITIE</xbrli:identifier>
+<xbrli:segment>
+<iic-com:version>1.0.0</iic-com:version>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2010-01-01</xbrli:startDate>
+<xbrli:endDate>2014-12-31</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="FIM_T32015_V-87152088_ia">
+<xbrli:entity>
+<xbrli:identifier scheme="http:&#47;&#47;www.cnmv.es&#47;xbrl&#47;iic&#47;V-87152088">ABACO GLOBAL VALUE OPORTUNITIE</xbrli:identifier>
+<xbrli:segment>
+<iic-com:version>1.0.0</iic-com:version>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2015-09-30</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="FIM_T32015_V-87152088_ipp">
+<xbrli:entity>
+<xbrli:identifier scheme="http:&#47;&#47;www.cnmv.es&#47;xbrl&#47;iic&#47;V-87152088">ABACO GLOBAL VALUE OPORTUNITIE</xbrli:identifier>
+<xbrli:segment>
+<iic-com:version>1.0.0</iic-com:version>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2015-06-30</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="FIM_T32015_V-87152088_ipy">
+<xbrli:entity>
+<xbrli:identifier scheme="http:&#47;&#47;www.cnmv.es&#47;xbrl&#47;iic&#47;V-87152088">ABACO GLOBAL VALUE OPORTUNITIE</xbrli:identifier>
+<xbrli:segment>
+<iic-com:version>1.0.0</iic-com:version>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2014-12-31</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="FIM_T32015_V-87152088_ipy2">
+<xbrli:entity>
+<xbrli:identifier scheme="http:&#47;&#47;www.cnmv.es&#47;xbrl&#47;iic&#47;V-87152088">ABACO GLOBAL VALUE OPORTUNITIE</xbrli:identifier>
+<xbrli:segment>
+<iic-com:version>1.0.0</iic-com:version>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2013-12-31</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="FIM_T32015_V-87152088_ipy3">
+<xbrli:entity>
+<xbrli:identifier scheme="http:&#47;&#47;www.cnmv.es&#47;xbrl&#47;iic&#47;V-87152088">ABACO GLOBAL VALUE OPORTUNITIE</xbrli:identifier>
+<xbrli:segment>
+<iic-com:version>1.0.0</iic-com:version>
+</xbrli:segment>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2012-12-31</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:unit id="euro">
+<xbrli:measure>iso4217:EUR</xbrli:measure>
+</xbrli:unit>
+<xbrli:unit id="pure">
+<xbrli:measure>xbrli:pure</xbrli:measure>
+</xbrli:unit>
+<iic-fim:InformeFIM>
+<iic-fim:InformacionGeneralFIM>
+<iic-com-fon:DenominacionFondo contextRef="FIM_T32015_V-87152088_ia">ABACO GLOBAL VALUE OPORTUNITIE</iic-com-fon:DenominacionFondo>
+<iic-com:DescripcionGeneral>
+<iic-com:RegistroCNMV decimals="0" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">4827</iic-com:RegistroCNMV>
+<iic-com:XCode_TipoInforme_01 contextRef="FIM_T32015_V-87152088_ia">01</iic-com:XCode_TipoInforme_01>
+<iic-com:XCode_PeriodoInforme_03 contextRef="FIM_T32015_V-87152088_ia">03</iic-com:XCode_PeriodoInforme_03>
+<iic-com:AnoInforme contextRef="FIM_T32015_V-87152088_ia">2015</iic-com:AnoInforme>
+<dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_T32015_V-87152088_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+</iic-com:DescripcionGeneral>
+<iic-com:RatingDepositario contextRef="FIM_T32015_V-87152088_ia">n.d.</iic-com:RatingDepositario>
+<iic-com-fon:FondoCompartimentos contextRef="FIM_T32015_V-87152088_ia">false</iic-com-fon:FondoCompartimentos>
+</iic-fim:InformacionGeneralFIM>
+<iic-com:ConsultaCarteraInversiones>
+<iic-com:DireccionInforme contextRef="FIM_T32015_V-87152088_ia">C&#47;CLAUDIO COELLO, 124 6 28006 MADRID</iic-com:DireccionInforme>
+<dgi-est-gen:CommunicationWays>
+<dgi-est-gen:CommunicationType>
+<dgi-lc-int:Xcode_UN3155.EM contextRef="FIM_T32015_V-87152088_da">EM</dgi-lc-int:Xcode_UN3155.EM>
+</dgi-est-gen:CommunicationType>
+<dgi-est-gen:CommunicationValue contextRef="FIM_T32015_V-87152088_da">gestora@abaco-capital.com</dgi-est-gen:CommunicationValue>
+</dgi-est-gen:CommunicationWays>
+<iic-com:DirWebInforme contextRef="FIM_T32015_V-87152088_ia">www.abaco-capital.com</iic-com:DirWebInforme>
+</iic-com:ConsultaCarteraInversiones>
+<iic-com:ConsultaGestora>
+<dgi-est-gen:Address>
+<dgi-est-gen:AddressFormat>
+<dgi-lc-int:Xcode_UN3477.05 contextRef="FIM_T32015_V-87152088_da">05</dgi-lc-int:Xcode_UN3477.05>
+</dgi-est-gen:AddressFormat>
+<dgi-est-gen:AddressLine contextRef="FIM_T32015_V-87152088_da">C&#47;CLAUDIO COELLO, 124 6 28006 MADRID</dgi-est-gen:AddressLine>
+</dgi-est-gen:Address>
+<dgi-est-gen:CommunicationWays>
+<dgi-est-gen:CommunicationType>
+<dgi-lc-int:Xcode_UN3155.EM contextRef="FIM_T32015_V-87152088_da">EM</dgi-lc-int:Xcode_UN3155.EM>
+</dgi-est-gen:CommunicationType>
+<dgi-est-gen:CommunicationValue contextRef="FIM_T32015_V-87152088_da">mailto:abaco@abaco-capital.com</dgi-est-gen:CommunicationValue>
+</dgi-est-gen:CommunicationWays>
+</iic-com:ConsultaGestora>
+<iic-fim:DatosFondoCompartimentoFIM>
+<iic-com-fon:FechaRegistroFondo contextRef="FIM_T32015_V-87152088_ia">2014-11-14</iic-com-fon:FechaRegistroFondo>
+<iic-fim:PoliticaDivisaFIM>
+<iic-fim:CategoriaFIM>
+<iic-fim:XCode_TipoFIM_08 contextRef="FIM_T32015_V-87152088_ia">08</iic-fim:XCode_TipoFIM_08>
+<iic-com:XCode_VocacionInversora_15 contextRef="FIM_T32015_V-87152088_ia">15</iic-com:XCode_VocacionInversora_15>
+<iic-com:PerfilRiesgo contextRef="FIM_T32015_V-87152088_ia">Alto</iic-com:PerfilRiesgo>
+</iic-fim:CategoriaFIM>
+<iic-com:PoliticaInversion contextRef="FIM_T32015_V-87152088_ia">El fondo de inversi&#243;n busca componer el capital a largo plazo, invirtiendo mayoritariamente en valores de renta variable sin limitaci&#243;n geogr&#225;fica ni de divisa.</iic-com:PoliticaInversion>
+<iic-com:OperativaDerivados contextRef="FIM_T32015_V-87152088_ia">Inversi&#243;n y cobertura.</iic-com:OperativaDerivados>
+<iic-com:XCode_MetodologiaMedicionRiesgoMercado_01 contextRef="FIM_T32015_V-87152088_ia">01</iic-com:XCode_MetodologiaMedicionRiesgoMercado_01>
+</iic-fim:PoliticaDivisaFIM>
+<iic-fim:DatosEconomicosFIM>
+<iic-com:IndiceRotacionCartera decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.44</iic-com:IndiceRotacionCartera>
+<iic-com:IndiceRotacionCartera decimals="0" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">0.12</iic-com:IndiceRotacionCartera>
+<iic-com:IndiceRotacionCartera decimals="0" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">0.00</iic-com:IndiceRotacionCartera>
+<iic-com:IndiceRotacionCartera decimals="0" contextRef="FIM_T32015_V-87152088_dpy" unitRef="pure">0.00</iic-com:IndiceRotacionCartera>
+<iic-com:RentabilidadMediaLiquidez decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.00</iic-com:RentabilidadMediaLiquidez>
+<iic-com:RentabilidadMediaLiquidez decimals="0" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">0.00</iic-com:RentabilidadMediaLiquidez>
+<iic-com:RentabilidadMediaLiquidez decimals="0" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">0.00</iic-com:RentabilidadMediaLiquidez>
+<iic-com:RentabilidadMediaLiquidez decimals="0" contextRef="FIM_T32015_V-87152088_dpy" unitRef="pure">0.00</iic-com:RentabilidadMediaLiquidez>
+<iic-fim:DatosClaseFIM>
+<iic-com:DatosRegistroClase>
+<iic-com:NumeroRegistroClase decimals="0" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">1</iic-com:NumeroRegistroClase>
+<iic-com:DenominacionClase contextRef="FIM_T32015_V-87152088_ia">ABACO GLOBAL VALUE OPORT.FI A</iic-com:DenominacionClase>
+</iic-com:DatosRegistroClase>
+<dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_T32015_V-87152088_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+<iic-com-fon:DatosGeneralesClase>
+<iic-com-fon:NumeroParticipaciones decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">434212.73</iic-com-fon:NumeroParticipaciones>
+<iic-com-fon:NumeroParticipaciones decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">380978.49</iic-com-fon:NumeroParticipaciones>
+<iic-com-fon:NumeroParticipes decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">91</iic-com-fon:NumeroParticipes>
+<iic-com-fon:NumeroParticipes decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">50</iic-com-fon:NumeroParticipes>
+<iic-com-fon:BeneficioBrutoParticipacion decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="euro">0.00</iic-com-fon:BeneficioBrutoParticipacion>
+<iic-com-fon:BeneficioBrutoParticipacion decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="euro">0.00</iic-com-fon:BeneficioBrutoParticipacion>
+<iic-com:DistribuyeDividendos contextRef="FIM_T32015_V-87152088_da">false</iic-com:DistribuyeDividendos>
+<iic-com:InversionMinimaDescripcion contextRef="FIM_T32015_V-87152088_ia"></iic-com:InversionMinimaDescripcion>
+<iic-com:Patrimonio decimals="0" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">2080528</iic-com:Patrimonio>
+<iic-com:Patrimonio decimals="0" contextRef="FIM_T32015_V-87152088_ipy" unitRef="euro">653617</iic-com:Patrimonio>
+<iic-com:ValorLiquidativo decimals="4" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">4.7915</iic-com:ValorLiquidativo>
+<iic-com:ValorLiquidativo decimals="4" contextRef="FIM_T32015_V-87152088_ipy" unitRef="euro">4.9713</iic-com:ValorLiquidativo>
+<iic-com-fon:ComisionesAplicadas>
+<iic-com-fon:ComisionGestion>
+<iic-com:ComisionGestionCobradaPatrimonio decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.00</iic-com:ComisionGestionCobradaPatrimonio>
+<iic-com:ComisionGestionCobradaPatrimonio decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">0.00</iic-com:ComisionGestionCobradaPatrimonio>
+<iic-com-fon:ComisionGestionCobrada decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.00</iic-com-fon:ComisionGestionCobrada>
+<iic-com-fon:ComisionGestionCobrada decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">0.00</iic-com-fon:ComisionGestionCobrada>
+<iic-com-fon:XCode_BaseCalculoComisionGestion_01 contextRef="FIM_T32015_V-87152088_daa">01</iic-com-fon:XCode_BaseCalculoComisionGestion_01>
+</iic-com-fon:ComisionGestion>
+<iic-com-fon:ComisionDepositario>
+<iic-com-fon:ComisionDepositarioCobrada decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.00</iic-com-fon:ComisionDepositarioCobrada>
+<iic-com-fon:ComisionDepositarioCobrada decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">0.00</iic-com-fon:ComisionDepositarioCobrada>
+</iic-com-fon:ComisionDepositario>
+<iic-com-fon:XCode_SistemaImputacionComisionGestion_01 contextRef="FIM_T32015_V-87152088_da">01</iic-com-fon:XCode_SistemaImputacionComisionGestion_01>
+</iic-com-fon:ComisionesAplicadas>
+</iic-com-fon:DatosGeneralesClase>
+<iic-fim:RentabilidadClaseFIM>
+</iic-fim:RentabilidadClaseFIM>
+<iic-com-fon:RentabilidadExtremaClase>
+</iic-com-fon:RentabilidadExtremaClase>
+<iic-com:PeriodicidadCalculoVL>
+<iic-com:XCode_PeriodicidadCalculoVL_01 contextRef="FIM_T32015_V-87152088_da">01</iic-com:XCode_PeriodicidadCalculoVL_01>
+</iic-com:PeriodicidadCalculoVL>
+<iic-fim:MedidasRiesgoFIM>
+</iic-fim:MedidasRiesgoFIM>
+<iic-fim:GastosClaseFIM>
+<iic-com:RatioTotalGastos decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">0.07</iic-com:RatioTotalGastos>
+<iic-com:RatioTotalGastos decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.01</iic-com:RatioTotalGastos>
+<iic-com:RatioTotalGastos decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">0.03</iic-com:RatioTotalGastos>
+<iic-com:RatioTotalGastos decimals="2" contextRef="FIM_T32015_V-87152088_dpq2" unitRef="pure">0.04</iic-com:RatioTotalGastos>
+<iic-com:RatioTotalGastos decimals="2" contextRef="FIM_T32015_V-87152088_dpq3" unitRef="pure">0.49</iic-com:RatioTotalGastos>
+<iic-com:RatioTotalGastos decimals="2" contextRef="FIM_T32015_V-87152088_dpy" unitRef="pure">0.49</iic-com:RatioTotalGastos>
+<iic-com:RatioTotalGastos decimals="2" contextRef="FIM_T32015_V-87152088_dpy2" unitRef="pure">0.00</iic-com:RatioTotalGastos>
+<iic-com:RatioTotalGastos decimals="2" contextRef="FIM_T32015_V-87152088_dpy3" unitRef="pure">0.00</iic-com:RatioTotalGastos>
+<iic-com:RatioGastosEstimado contextRef="FIM_T32015_V-87152088_da">false</iic-com:RatioGastosEstimado>
+</iic-fim:GastosClaseFIM>
+<iic-com:EvolucionValorLiquidativo>
+<iic-com:NombreFicheroAdjunto contextRef="FIM_T32015_V-87152088_da">GraficaVL.png</iic-com:NombreFicheroAdjunto>
+<iic-com:TipoMimeFicheroAdjunto contextRef="FIM_T32015_V-87152088_da">png</iic-com:TipoMimeFicheroAdjunto>
+<iic-com:ContenidoFicheroAdjunto contextRef="FIM_T32015_V-87152088_da">iVBORw0KGgoAAAANSUhEUgAAAoAAAAGQCAIAAACxkUZyAAAAAXNSR0IArs4c6QAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9kIBwkQICo/nSkAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAE+0lEQVR42u3VMREAAAjEMMC/58cFA5dI6NJOUgDArZEAAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAwYAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYADBgADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAwYAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYADBgADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAwYAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYADBgADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAwYAAwYADAgAHAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAwIABwIABwIABAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAcCAAQADBgADBgAMGAAMGAAwYAAwYADAgAHAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAwIABwIABwIABAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAcCAAQADBgADBgAMGAAMGAAwYAAwYADAgAHAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAwIABwIABwIABAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAcCAAQADBgADBgAMGAAMGAAwYAAwYADAgAHAgAHAgCUAAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgADBgAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYAAwYADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgADBgAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYAAwYADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgADBgAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYAAwYADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYAAwYADBgAPhrAUkcBh1kyqz7AAAAAElFTkSuQmCC</iic-com:ContenidoFicheroAdjunto>
+</iic-com:EvolucionValorLiquidativo>
+<iic-com:RentabilidadUltimosAnnos>
+<iic-com:NombreFicheroAdjunto contextRef="FIM_T32015_V-87152088_da">GraficaRT.png</iic-com:NombreFicheroAdjunto>
+<iic-com:TipoMimeFicheroAdjunto contextRef="FIM_T32015_V-87152088_da">png</iic-com:TipoMimeFicheroAdjunto>
+<iic-com:ContenidoFicheroAdjunto contextRef="FIM_T32015_V-87152088_da">iVBORw0KGgoAAAANSUhEUgAAAoAAAAGQCAIAAACxkUZyAAAAAXNSR0IArs4c6QAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9kIBwkQICo/nSkAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAE+0lEQVR42u3VMREAAAjEMMC/58cFA5dI6NJOUgDArZEAAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAwYAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYADBgADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAwYAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYADBgADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAwYAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYADBgADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAwYAAwYADAgAHAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAwIABwIABwIABAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAcCAAQADBgADBgAMGAAMGAAwYAAwYADAgAHAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAwIABwIABwIABAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAcCAAQADBgADBgAMGAAMGAAwYAAwYADAgAHAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAwIABwIABwIABAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAcCAAQADBgADBgAMGAAMGAAwYAAwYADAgAHAgAHAgCUAAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgADBgAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYAAwYADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgADBgAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYAAwYADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgADBgAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYAAwYADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYAAwYADBgAPhrAUkcBh1kyqz7AAAAAElFTkSuQmCC</iic-com:ContenidoFicheroAdjunto>
+</iic-com:RentabilidadUltimosAnnos>
+<iic-com:ModificacionPoliticaInversion>
+<iic-com:ModificadaPoliticaInversion contextRef="FIM_T32015_V-87152088_da">true</iic-com:ModificadaPoliticaInversion>
+<iic-com:ModificacionPoliticaInversionTexto contextRef="FIM_T32015_V-87152088_da">La Pol&#237;tica de Inversi&#243;n de la IIC ha sido cambiada el 19 de Septiembre de 2015</iic-com:ModificacionPoliticaInversionTexto>
+</iic-com:ModificacionPoliticaInversion>
+</iic-fim:DatosClaseFIM>
+<iic-fim:DatosClaseFIM>
+<iic-com:DatosRegistroClase>
+<iic-com:NumeroRegistroClase decimals="0" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">2</iic-com:NumeroRegistroClase>
+<iic-com:DenominacionClase contextRef="FIM_T32015_V-87152088_ia">ABACO GLOBAL VALUE OPORT.FI B</iic-com:DenominacionClase>
+</iic-com:DatosRegistroClase>
+<dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_T32015_V-87152088_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+<iic-com-fon:DatosGeneralesClase>
+<iic-com-fon:NumeroParticipaciones decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">695158.19</iic-com-fon:NumeroParticipaciones>
+<iic-com-fon:NumeroParticipaciones decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">683093.05</iic-com-fon:NumeroParticipaciones>
+<iic-com-fon:NumeroParticipes decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">9</iic-com-fon:NumeroParticipes>
+<iic-com-fon:NumeroParticipes decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">9</iic-com-fon:NumeroParticipes>
+<iic-com-fon:BeneficioBrutoParticipacion decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="euro">0.00</iic-com-fon:BeneficioBrutoParticipacion>
+<iic-com-fon:BeneficioBrutoParticipacion decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="euro">0.00</iic-com-fon:BeneficioBrutoParticipacion>
+<iic-com:DistribuyeDividendos contextRef="FIM_T32015_V-87152088_da">false</iic-com:DistribuyeDividendos>
+<iic-com:InversionMinimaDescripcion contextRef="FIM_T32015_V-87152088_ia"></iic-com:InversionMinimaDescripcion>
+<iic-com:Patrimonio decimals="0" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">3350311</iic-com:Patrimonio>
+<iic-com:Patrimonio decimals="0" contextRef="FIM_T32015_V-87152088_ipy" unitRef="euro">0</iic-com:Patrimonio>
+<iic-com:ValorLiquidativo decimals="4" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">4.8195</iic-com:ValorLiquidativo>
+<iic-com:ValorLiquidativo decimals="4" contextRef="FIM_T32015_V-87152088_ipy" unitRef="euro">0.0000</iic-com:ValorLiquidativo>
+<iic-com-fon:ComisionesAplicadas>
+<iic-com-fon:ComisionGestion>
+<iic-com:ComisionGestionCobradaPatrimonio decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.00</iic-com:ComisionGestionCobradaPatrimonio>
+<iic-com:ComisionGestionCobradaPatrimonio decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">0.00</iic-com:ComisionGestionCobradaPatrimonio>
+<iic-com-fon:ComisionGestionCobrada decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.00</iic-com-fon:ComisionGestionCobrada>
+<iic-com-fon:ComisionGestionCobrada decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">0.00</iic-com-fon:ComisionGestionCobrada>
+<iic-com-fon:XCode_BaseCalculoComisionGestion_01 contextRef="FIM_T32015_V-87152088_daa">01</iic-com-fon:XCode_BaseCalculoComisionGestion_01>
+</iic-com-fon:ComisionGestion>
+<iic-com-fon:ComisionDepositario>
+<iic-com-fon:ComisionDepositarioCobrada decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.00</iic-com-fon:ComisionDepositarioCobrada>
+<iic-com-fon:ComisionDepositarioCobrada decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">0.00</iic-com-fon:ComisionDepositarioCobrada>
+</iic-com-fon:ComisionDepositario>
+<iic-com-fon:XCode_SistemaImputacionComisionGestion_01 contextRef="FIM_T32015_V-87152088_da">01</iic-com-fon:XCode_SistemaImputacionComisionGestion_01>
+</iic-com-fon:ComisionesAplicadas>
+</iic-com-fon:DatosGeneralesClase>
+<iic-fim:RentabilidadClaseFIM>
+</iic-fim:RentabilidadClaseFIM>
+<iic-com-fon:RentabilidadExtremaClase>
+</iic-com-fon:RentabilidadExtremaClase>
+<iic-com:PeriodicidadCalculoVL>
+<iic-com:XCode_PeriodicidadCalculoVL_01 contextRef="FIM_T32015_V-87152088_da">01</iic-com:XCode_PeriodicidadCalculoVL_01>
+</iic-com:PeriodicidadCalculoVL>
+<iic-fim:MedidasRiesgoFIM>
+</iic-fim:MedidasRiesgoFIM>
+<iic-fim:GastosClaseFIM>
+<iic-com:RatioTotalGastos decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">0.07</iic-com:RatioTotalGastos>
+<iic-com:RatioTotalGastos decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.01</iic-com:RatioTotalGastos>
+<iic-com:RatioTotalGastos decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">0.03</iic-com:RatioTotalGastos>
+<iic-com:RatioTotalGastos decimals="2" contextRef="FIM_T32015_V-87152088_dpq2" unitRef="pure">0.04</iic-com:RatioTotalGastos>
+<iic-com:RatioTotalGastos decimals="2" contextRef="FIM_T32015_V-87152088_dpq3" unitRef="pure">0.00</iic-com:RatioTotalGastos>
+<iic-com:RatioTotalGastos decimals="2" contextRef="FIM_T32015_V-87152088_dpy" unitRef="pure">0.00</iic-com:RatioTotalGastos>
+<iic-com:RatioTotalGastos decimals="2" contextRef="FIM_T32015_V-87152088_dpy2" unitRef="pure">0.00</iic-com:RatioTotalGastos>
+<iic-com:RatioTotalGastos decimals="2" contextRef="FIM_T32015_V-87152088_dpy3" unitRef="pure">0.00</iic-com:RatioTotalGastos>
+<iic-com:RatioGastosEstimado contextRef="FIM_T32015_V-87152088_da">false</iic-com:RatioGastosEstimado>
+</iic-fim:GastosClaseFIM>
+<iic-com:EvolucionValorLiquidativo>
+<iic-com:NombreFicheroAdjunto contextRef="FIM_T32015_V-87152088_da">GraficaVL.png</iic-com:NombreFicheroAdjunto>
+<iic-com:TipoMimeFicheroAdjunto contextRef="FIM_T32015_V-87152088_da">png</iic-com:TipoMimeFicheroAdjunto>
+<iic-com:ContenidoFicheroAdjunto contextRef="FIM_T32015_V-87152088_da">iVBORw0KGgoAAAANSUhEUgAAAoAAAAGQCAIAAACxkUZyAAAAAXNSR0IArs4c6QAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9kIBwkQICo/nSkAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAE+0lEQVR42u3VMREAAAjEMMC/58cFA5dI6NJOUgDArZEAAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAwYAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYADBgADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAwYAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYADBgADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAwYAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYADBgADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAwYAAwYADAgAHAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAwIABwIABwIABAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAcCAAQADBgADBgAMGAAMGAAwYAAwYADAgAHAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAwIABwIABwIABAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAcCAAQADBgADBgAMGAAMGAAwYAAwYADAgAHAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAwIABwIABwIABAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAcCAAQADBgADBgAMGAAMGAAwYAAwYADAgAHAgAHAgCUAAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgADBgAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYAAwYADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgADBgAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYAAwYADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgADBgAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYAAwYADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYAAwYADBgAPhrAUkcBh1kyqz7AAAAAElFTkSuQmCC</iic-com:ContenidoFicheroAdjunto>
+</iic-com:EvolucionValorLiquidativo>
+<iic-com:RentabilidadUltimosAnnos>
+<iic-com:NombreFicheroAdjunto contextRef="FIM_T32015_V-87152088_da">GraficaRT.png</iic-com:NombreFicheroAdjunto>
+<iic-com:TipoMimeFicheroAdjunto contextRef="FIM_T32015_V-87152088_da">png</iic-com:TipoMimeFicheroAdjunto>
+<iic-com:ContenidoFicheroAdjunto contextRef="FIM_T32015_V-87152088_da">iVBORw0KGgoAAAANSUhEUgAAAoAAAAGQCAIAAACxkUZyAAAAAXNSR0IArs4c6QAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9kIBwkQICo/nSkAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAE+0lEQVR42u3VMREAAAjEMMC/58cFA5dI6NJOUgDArZEAAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAwYAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYADBgADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAwYAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYADBgADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAwYAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYADBgADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAwYAAwYADAgAHAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAwIABwIABwIABAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAcCAAQADBgADBgAMGAAMGAAwYAAwYADAgAHAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAwIABwIABwIABAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAcCAAQADBgADBgAMGAAMGAAwYAAwYADAgAHAgAHAgAEAAwYAAwYADBgADBgAMGAAMGAAwIABwIABwIABAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAcCAAQADBgADBgAMGAAMGAAwYAAwYADAgAHAgAHAgCUAAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgADBgAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYAAwYADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgADBgAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYAAwYADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgADBgAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYAAwYADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAMGAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYAAwYADBgADBgAMCAAcCAAQADBgADBgAMGAAMGAAMGAAwYAAwYADAgAHAgAEAAwYAAwYADBgADBgADBgAMGAAMGAAwIABwIABAAMGAAMGAAwYAAwYAAwYADBgAPhrAUkcBh1kyqz7AAAAAElFTkSuQmCC</iic-com:ContenidoFicheroAdjunto>
+</iic-com:RentabilidadUltimosAnnos>
+<iic-com:ModificacionPoliticaInversion>
+<iic-com:ModificadaPoliticaInversion contextRef="FIM_T32015_V-87152088_da">true</iic-com:ModificadaPoliticaInversion>
+<iic-com:ModificacionPoliticaInversionTexto contextRef="FIM_T32015_V-87152088_da">La Pol&#237;tica de Inversi&#243;n de la IIC ha sido cambiada el 19 de Septiembre de 2015</iic-com:ModificacionPoliticaInversionTexto>
+</iic-com:ModificacionPoliticaInversion>
+</iic-fim:DatosClaseFIM>
+<iic-fim:DistribucionPatrimonioFIM>
+<iic-com:DistribucionPatrimonioInversionesFinancieras decimals="0" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">4502392</iic-com:DistribucionPatrimonioInversionesFinancieras>
+<iic-com:DistribucionPatrimonioInversionesFinancieras decimals="0" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">4503157</iic-com:DistribucionPatrimonioInversionesFinancieras>
+<iic-com:DistribucionPatrimonioCarteraInterior decimals="0" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">735094</iic-com:DistribucionPatrimonioCarteraInterior>
+<iic-com:DistribucionPatrimonioCarteraInterior decimals="0" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">2952405</iic-com:DistribucionPatrimonioCarteraInterior>
+<iic-com:DistribucionPatrimonioCarteraExterior decimals="0" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">3767300</iic-com:DistribucionPatrimonioCarteraExterior>
+<iic-com:DistribucionPatrimonioCarteraExterior decimals="0" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">1550757</iic-com:DistribucionPatrimonioCarteraExterior>
+<iic-com:DistribucionPatrimonioInteresesCartera decimals="0" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">-2</iic-com:DistribucionPatrimonioInteresesCartera>
+<iic-com:DistribucionPatrimonioInteresesCartera decimals="0" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">-5</iic-com:DistribucionPatrimonioInteresesCartera>
+<iic-com:DistribucionPatrimonioInversionesDudosas decimals="0" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">0</iic-com:DistribucionPatrimonioInversionesDudosas>
+<iic-com:DistribucionPatrimonioInversionesDudosas decimals="0" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">0</iic-com:DistribucionPatrimonioInversionesDudosas>
+<iic-com:DistribucionPatrimonioLiquidez decimals="0" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">881694</iic-com:DistribucionPatrimonioLiquidez>
+<iic-com:DistribucionPatrimonioLiquidez decimals="0" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">956275</iic-com:DistribucionPatrimonioLiquidez>
+<iic-com:DistribucionPatrimonioResto decimals="0" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">46753</iic-com:DistribucionPatrimonioResto>
+<iic-com:DistribucionPatrimonioResto decimals="0" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">-11844</iic-com:DistribucionPatrimonioResto>
+<iic-com:DistribucionPatrimonioTotal decimals="0" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">5430839</iic-com:DistribucionPatrimonioTotal>
+<iic-com:DistribucionPatrimonioTotal decimals="0" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">5447588</iic-com:DistribucionPatrimonioTotal>
+</iic-fim:DistribucionPatrimonioFIM>
+<iic-fim:VariacionPatrimonialFIM>
+<iic-com:VariacionPatrimonialFinPeriodoAnterior decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="euro">5447587.89</iic-com:VariacionPatrimonialFinPeriodoAnterior>
+<iic-com:VariacionPatrimonialFinPeriodoAnterior decimals="0" contextRef="FIM_T32015_V-87152088_dpp" unitRef="euro">4987944.49</iic-com:VariacionPatrimonialFinPeriodoAnterior>
+<iic-com:VariacionPatrimonialFinPeriodoAnterior decimals="0" contextRef="FIM_T32015_V-87152088_daa" unitRef="euro">653616.57</iic-com:VariacionPatrimonialFinPeriodoAnterior>
+<iic-com:VariacionPatrimonialSuscripciones decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">5.89</iic-com:VariacionPatrimonialSuscripciones>
+<iic-com:VariacionPatrimonialSuscripciones decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">9.39</iic-com:VariacionPatrimonialSuscripciones>
+<iic-com:VariacionPatrimonialSuscripciones decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">111.22</iic-com:VariacionPatrimonialSuscripciones>
+<iic-com:VariacionPatrimonialSuscripcionesRespectoFinAnterior decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">-31.34</iic-com:VariacionPatrimonialSuscripcionesRespectoFinAnterior>
+<iic-com:VariacionPatrimonialBeneficioDistribuido decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-com:VariacionPatrimonialBeneficioDistribuido>
+<iic-com:VariacionPatrimonialBeneficioDistribuido decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">0</iic-com:VariacionPatrimonialBeneficioDistribuido>
+<iic-com:VariacionPatrimonialBeneficioDistribuido decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">0</iic-com:VariacionPatrimonialBeneficioDistribuido>
+<iic-com:VariacionPatrimonialBeneficioDistribuidoRespectoFinAnterior decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-com:VariacionPatrimonialBeneficioDistribuidoRespectoFinAnterior>
+<iic-com:VariacionPatrimonialRendimientoNeto decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">-6.17</iic-com:VariacionPatrimonialRendimientoNeto>
+<iic-com:VariacionPatrimonialRendimientoNeto decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">-0.40</iic-com:VariacionPatrimonialRendimientoNeto>
+<iic-com:VariacionPatrimonialRendimientoNeto decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">-5.93</iic-com:VariacionPatrimonialRendimientoNeto>
+<iic-com:VariacionPatrimonialRendimientoNetoRespectoFinAnterior decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">2679.33</iic-com:VariacionPatrimonialRendimientoNetoRespectoFinAnterior>
+<iic-com:VariacionPatrimonialRendimientoGestion decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">-6.15</iic-com:VariacionPatrimonialRendimientoGestion>
+<iic-com:VariacionPatrimonialRendimientoGestion decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">-0.26</iic-com:VariacionPatrimonialRendimientoGestion>
+<iic-com:VariacionPatrimonialRendimientoGestion decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">-5.51</iic-com:VariacionPatrimonialRendimientoGestion>
+<iic-com:VariacionPatrimonialRendimientoGestionRespectoFinAnterior decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">3004.30</iic-com:VariacionPatrimonialRendimientoGestionRespectoFinAnterior>
+<iic-com:VariacionPatrimonialIntereses decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-com:VariacionPatrimonialIntereses>
+<iic-com:VariacionPatrimonialIntereses decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">-0.01</iic-com:VariacionPatrimonialIntereses>
+<iic-com:VariacionPatrimonialIntereses decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">-0.01</iic-com:VariacionPatrimonialIntereses>
+<iic-com:VariacionPatrimonialInteresesRespectoFinAnterior decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">-72.10</iic-com:VariacionPatrimonialInteresesRespectoFinAnterior>
+<iic-com:VariacionPatrimonialDividendos decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.10</iic-com:VariacionPatrimonialDividendos>
+<iic-com:VariacionPatrimonialDividendos decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">0.07</iic-com:VariacionPatrimonialDividendos>
+<iic-com:VariacionPatrimonialDividendos decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">0.28</iic-com:VariacionPatrimonialDividendos>
+<iic-com:VariacionPatrimonialDividendosRespectoFinAnterior decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">47.36</iic-com:VariacionPatrimonialDividendosRespectoFinAnterior>
+<iic-com:VariacionPatrimonialRentaFija decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-com:VariacionPatrimonialRentaFija>
+<iic-com:VariacionPatrimonialRentaFija decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">0</iic-com:VariacionPatrimonialRentaFija>
+<iic-com:VariacionPatrimonialRentaFija decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">0</iic-com:VariacionPatrimonialRentaFija>
+<iic-com:VariacionPatrimonialRentaFijaRespectoFinAnterior decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-com:VariacionPatrimonialRentaFijaRespectoFinAnterior>
+<iic-com:VariacionPatrimonialRentaVariable decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">-3.74</iic-com:VariacionPatrimonialRentaVariable>
+<iic-com:VariacionPatrimonialRentaVariable decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">-0.26</iic-com:VariacionPatrimonialRentaVariable>
+<iic-com:VariacionPatrimonialRentaVariable decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">-3.16</iic-com:VariacionPatrimonialRentaVariable>
+<iic-com:VariacionPatrimonialRentaVariableRespectoFinAnterior decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">1449.49</iic-com:VariacionPatrimonialRentaVariableRespectoFinAnterior>
+<iic-com:VariacionPatrimonialDepositos decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-com:VariacionPatrimonialDepositos>
+<iic-com:VariacionPatrimonialDepositos decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">0</iic-com:VariacionPatrimonialDepositos>
+<iic-com:VariacionPatrimonialDepositos decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">0</iic-com:VariacionPatrimonialDepositos>
+<iic-com:VariacionPatrimonialDepositosRespectoFinAnterior decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-com:VariacionPatrimonialDepositosRespectoFinAnterior>
+<iic-com:VariacionPatrimonialDerivados decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">-2.25</iic-com:VariacionPatrimonialDerivados>
+<iic-com:VariacionPatrimonialDerivados decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">-0.09</iic-com:VariacionPatrimonialDerivados>
+<iic-com:VariacionPatrimonialDerivados decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">-2.41</iic-com:VariacionPatrimonialDerivados>
+<iic-com:VariacionPatrimonialDerivadosRespectoFinAnterior decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">2727.78</iic-com:VariacionPatrimonialDerivadosRespectoFinAnterior>
+<iic-com:VariacionPatrimonialIIC decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-com:VariacionPatrimonialIIC>
+<iic-com:VariacionPatrimonialIIC decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">0</iic-com:VariacionPatrimonialIIC>
+<iic-com:VariacionPatrimonialIIC decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">0</iic-com:VariacionPatrimonialIIC>
+<iic-com:VariacionPatrimonialIICRespectoFinAnterior decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">37.50</iic-com:VariacionPatrimonialIICRespectoFinAnterior>
+<iic-com:VariacionPatrimonialOtrosResultados decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">-0.26</iic-com:VariacionPatrimonialOtrosResultados>
+<iic-com:VariacionPatrimonialOtrosResultados decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">0.03</iic-com:VariacionPatrimonialOtrosResultados>
+<iic-com:VariacionPatrimonialOtrosResultados decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">-0.21</iic-com:VariacionPatrimonialOtrosResultados>
+<iic-com:VariacionPatrimonialOtrosResultadosRespectoFinAnterior decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">-1185.73</iic-com:VariacionPatrimonialOtrosResultadosRespectoFinAnterior>
+<iic-com:VariacionPatrimonialOtrosRendimientos decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-com:VariacionPatrimonialOtrosRendimientos>
+<iic-com:VariacionPatrimonialOtrosRendimientos decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">0</iic-com:VariacionPatrimonialOtrosRendimientos>
+<iic-com:VariacionPatrimonialOtrosRendimientos decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">0</iic-com:VariacionPatrimonialOtrosRendimientos>
+<iic-com:VariacionPatrimonialOtrosRendimientosRespectoFinAnterior decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-com:VariacionPatrimonialOtrosRendimientosRespectoFinAnterior>
+<iic-com:VariacionPatrimonialGastosRepercutidos decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">-0.02</iic-com:VariacionPatrimonialGastosRepercutidos>
+<iic-com:VariacionPatrimonialGastosRepercutidos decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">-0.14</iic-com:VariacionPatrimonialGastosRepercutidos>
+<iic-com:VariacionPatrimonialGastosRepercutidos decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">-0.42</iic-com:VariacionPatrimonialGastosRepercutidos>
+<iic-com:VariacionPatrimonialGastosRepercutidosRespectoFinAnterior decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">-324.97</iic-com:VariacionPatrimonialGastosRepercutidosRespectoFinAnterior>
+<iic-com:VariacionPatrimonialComisionGestion decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.01</iic-com:VariacionPatrimonialComisionGestion>
+<iic-com:VariacionPatrimonialComisionGestion decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">-0.09</iic-com:VariacionPatrimonialComisionGestion>
+<iic-com:VariacionPatrimonialComisionGestion decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">-0.24</iic-com:VariacionPatrimonialComisionGestion>
+<iic-com:VariacionPatrimonialComisionGestionRespectoFinAnterior decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">-106.35</iic-com:VariacionPatrimonialComisionGestionRespectoFinAnterior>
+<iic-com:VariacionPatrimonialComisionDepositario decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">-0.03</iic-com:VariacionPatrimonialComisionDepositario>
+<iic-com:VariacionPatrimonialComisionDepositario decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">-0.02</iic-com:VariacionPatrimonialComisionDepositario>
+<iic-com:VariacionPatrimonialComisionDepositario decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">-0.07</iic-com:VariacionPatrimonialComisionDepositario>
+<iic-com:VariacionPatrimonialComisionDepositarioRespectoFinAnterior decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">10.72</iic-com:VariacionPatrimonialComisionDepositarioRespectoFinAnterior>
+<iic-com:VariacionPatrimonialServiciosExteriores decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">-0.01</iic-com:VariacionPatrimonialServiciosExteriores>
+<iic-com:VariacionPatrimonialServiciosExteriores decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">-0.01</iic-com:VariacionPatrimonialServiciosExteriores>
+<iic-com:VariacionPatrimonialServiciosExteriores decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">-0.05</iic-com:VariacionPatrimonialServiciosExteriores>
+<iic-com:VariacionPatrimonialServiciosExterioresRespectoFinAnterior decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.87</iic-com:VariacionPatrimonialServiciosExterioresRespectoFinAnterior>
+<iic-com:VariacionPatrimonialGastosCorrientes decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-com:VariacionPatrimonialGastosCorrientes>
+<iic-com:VariacionPatrimonialGastosCorrientes decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">-0.02</iic-com:VariacionPatrimonialGastosCorrientes>
+<iic-com:VariacionPatrimonialGastosCorrientes decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">-0.03</iic-com:VariacionPatrimonialGastosCorrientes>
+<iic-com:VariacionPatrimonialGastosCorrientesRespectoFinAnterior decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-com:VariacionPatrimonialGastosCorrientesRespectoFinAnterior>
+<iic-com:VariacionPatrimonialOtrosGastos decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.01</iic-com:VariacionPatrimonialOtrosGastos>
+<iic-com:VariacionPatrimonialOtrosGastos decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">0</iic-com:VariacionPatrimonialOtrosGastos>
+<iic-com:VariacionPatrimonialOtrosGastos decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">-0.03</iic-com:VariacionPatrimonialOtrosGastos>
+<iic-com:VariacionPatrimonialOtrosGastosRespectoFinAnterior decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">-230.21</iic-com:VariacionPatrimonialOtrosGastosRespectoFinAnterior>
+<iic-com:VariacionPatrimonialIngresos decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-com:VariacionPatrimonialIngresos>
+<iic-com:VariacionPatrimonialIngresos decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">0</iic-com:VariacionPatrimonialIngresos>
+<iic-com:VariacionPatrimonialIngresos decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">0</iic-com:VariacionPatrimonialIngresos>
+<iic-com:VariacionPatrimonialIngresosRespectoFinAnterior decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-com:VariacionPatrimonialIngresosRespectoFinAnterior>
+<iic-com:VariacionPatrimonialDescuentos decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-com:VariacionPatrimonialDescuentos>
+<iic-com:VariacionPatrimonialDescuentos decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">0</iic-com:VariacionPatrimonialDescuentos>
+<iic-com:VariacionPatrimonialDescuentos decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">0</iic-com:VariacionPatrimonialDescuentos>
+<iic-com:VariacionPatrimonialDescuentosRespectoFinAnterior decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-com:VariacionPatrimonialDescuentosRespectoFinAnterior>
+<iic-com:VariacionPatrimonialRetrocedidas decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-com:VariacionPatrimonialRetrocedidas>
+<iic-com:VariacionPatrimonialRetrocedidas decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">0</iic-com:VariacionPatrimonialRetrocedidas>
+<iic-com:VariacionPatrimonialRetrocedidas decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">0</iic-com:VariacionPatrimonialRetrocedidas>
+<iic-com:VariacionPatrimonialRetrocedidasRespectoFinAnterior decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-com:VariacionPatrimonialRetrocedidasRespectoFinAnterior>
+<iic-com:VariacionPatrimonialOtrosIngresos decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-com:VariacionPatrimonialOtrosIngresos>
+<iic-com:VariacionPatrimonialOtrosIngresos decimals="2" contextRef="FIM_T32015_V-87152088_dpp" unitRef="pure">0</iic-com:VariacionPatrimonialOtrosIngresos>
+<iic-com:VariacionPatrimonialOtrosIngresos decimals="2" contextRef="FIM_T32015_V-87152088_daa" unitRef="pure">0</iic-com:VariacionPatrimonialOtrosIngresos>
+<iic-com:VariacionPatrimonialOtrosIngresosRespectoFinAnterior decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-com:VariacionPatrimonialOtrosIngresosRespectoFinAnterior>
+<iic-com:VariacionPatrimonialFinPeriodoActual decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="euro">5430839.08</iic-com:VariacionPatrimonialFinPeriodoActual>
+<iic-com:VariacionPatrimonialFinPeriodoActual decimals="0" contextRef="FIM_T32015_V-87152088_dpp" unitRef="euro">5447587.89</iic-com:VariacionPatrimonialFinPeriodoActual>
+<iic-com:VariacionPatrimonialFinPeriodoActual decimals="0" contextRef="FIM_T32015_V-87152088_daa" unitRef="euro">5430839.08</iic-com:VariacionPatrimonialFinPeriodoActual>
+</iic-fim:VariacionPatrimonialFIM>
+</iic-fim:DatosEconomicosFIM>
+<iic-fim:InversionesFinancierasFIM>
+<iic-com:InversionesFinancierasValorEstimado>
+<iic-com:InversionesFinancierasInterior>
+<iic-com:InversionesFinancierasAdquisicionTemporalActivos>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">ES00000123Q7</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">REPO|UBS BANK|0,195|2015-10-07</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_T32015_V-87152088_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">280000.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">5.16</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">0.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">0.00</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasAdquisicionTemporalActivos>
+<iic-com:InversionesFinancierasAdquisicionTemporalActivos>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">ES00000124C5</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">REPO|UBS BANK|0,070|2015-07-06</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_T32015_V-87152088_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">0.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">0.00</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">2700000.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">49.56</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasAdquisicionTemporalActivos>
+<iic-com:InversionesFinancierasAdquisicionTemporalActivosTotal>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">280000.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">5.16</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">2700000.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">49.56</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasAdquisicionTemporalActivosTotal>
+<iic-com:InversionesFinancierasRF>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">280000.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">5.16</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">2700000.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">49.56</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRF>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">ES0112458312</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|AZKOYEN</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_T32015_V-87152088_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">59836.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">1.10</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">66062.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">1.21</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">ES0113900J37</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|BSCH</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_T32015_V-87152088_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">40338.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">0.74</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">0.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">0.00</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">ES0121975017</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|CAF</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_T32015_V-87152088_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">14068.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">0.26</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">13594.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">0.25</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">ES0126775032</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|DIA</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_T32015_V-87152088_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">94163.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">1.73</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">12262.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">0.23</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">ES0171996004</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|GRIFOLS</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_T32015_V-87152088_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">9960.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">0.18</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">0.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">0.00</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">ES0118594417</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|INDRA</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_T32015_V-87152088_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">173581.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">3.20</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">150001.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">2.75</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">ES0142090317</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|OHL</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_T32015_V-87152088_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">8079.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">0.15</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">10487.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">0.19</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">ES0173516115</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|REPSOL YPF SA</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_T32015_V-87152088_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">55068.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">1.01</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">0.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">0.00</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizadaTotal>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">455093.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">8.38</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">252406.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">4.63</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizadaTotal>
+<iic-com:InversionesFinancierasRV>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">455093.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">8.38</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">252406.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">4.63</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRV>
+<iic-com:InversionesFinancierasTotalInversion>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">735093.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">13.54</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">2952406.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">54.20</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasTotalInversion>
+</iic-com:InversionesFinancierasInterior>
+<iic-com:InversionesFinancierasExterior>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">US0268747849</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|AMERICAN INTERNATIONAL GROUP</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.USD contextRef="FIM_T32015_V-87152088_da">USD</dgi-lc-int:Xcode_ISO4217.USD>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">372022.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">6.85</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">136872.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">2.51</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">US0605051046</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|BANK OF AMERICA</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.USD contextRef="FIM_T32015_V-87152088_da">USD</dgi-lc-int:Xcode_ISO4217.USD>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">257515.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">4.74</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">62754.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">1.15</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">US0846707026</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|BERKSHIRE HATHAWAY</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.USD contextRef="FIM_T32015_V-87152088_da">USD</dgi-lc-int:Xcode_ISO4217.USD>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">527107.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">9.71</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">26863.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">0.49</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">DE0005190037</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|BMW</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_T32015_V-87152088_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">55442.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">1.02</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">0.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">0.00</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">US1651671075</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|CHESAPEAKE ENERGY CORPORATION</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.USD contextRef="FIM_T32015_V-87152088_da">USD</dgi-lc-int:Xcode_ISO4217.USD>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">0.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">0.00</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">8477.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">0.16</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">US1729674242</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|CITIGROUP INC</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.USD contextRef="FIM_T32015_V-87152088_da">USD</dgi-lc-int:Xcode_ISO4217.USD>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">284424.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">5.24</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">164377.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">3.02</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">US1261171003</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|CNA FIANCIAL CORPORATION</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.USD contextRef="FIM_T32015_V-87152088_da">USD</dgi-lc-int:Xcode_ISO4217.USD>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">85442.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">1.57</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">29616.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">0.54</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">US1897541041</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|COACH INC</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.USD contextRef="FIM_T32015_V-87152088_da">USD</dgi-lc-int:Xcode_ISO4217.USD>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">34632.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">0.64</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">41543.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">0.76</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">CA3039011026</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|FAIRFAX FIANACIAL HOLDINGS</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.CAD contextRef="FIM_T32015_V-87152088_da">CAD</dgi-lc-int:Xcode_ISO4217.CAD>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">53913.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">0.99</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">58374.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">1.07</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">CA3039011026</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|FAIRFAX FIANACIAL</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.USD contextRef="FIM_T32015_V-87152088_da">USD</dgi-lc-int:Xcode_ISO4217.USD>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">472822.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">8.71</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">0.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">0.00</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">PTGAL0AM0009</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|GALP ENERGIA</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_T32015_V-87152088_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">28597.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">0.53</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">34190.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">0.63</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">PTJMT0AE0001</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|JERONIMO MARTINS</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_T32015_V-87152088_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">18513.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">0.34</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">17676.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">0.32</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">GB0008706128</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|LLOYDS TSB GROUP PLC</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.GBP contextRef="FIM_T32015_V-87152088_da">GBP</dgi-lc-int:Xcode_ISO4217.GBP>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">265849.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">4.90</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">73756.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">1.35</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">US5705351048</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|MARKEL CORPORATION</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.USD contextRef="FIM_T32015_V-87152088_da">USD</dgi-lc-int:Xcode_ISO4217.USD>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">86090.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">1.59</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">86195.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">1.58</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">US6708513022</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|OI SA ADR</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.USD contextRef="FIM_T32015_V-87152088_da">USD</dgi-lc-int:Xcode_ISO4217.USD>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">0.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">0.00</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">27605.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">0.51</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">AT0000758305</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|PALFINGER</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_T32015_V-87152088_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">72415.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">1.33</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">82501.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">1.51</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">MX01Q0000008</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|QUALITAS CONTROLADORA SAB</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.MXN contextRef="FIM_T32015_V-87152088_da">MXN</dgi-lc-int:Xcode_ISO4217.MXN>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">144479.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">2.66</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">0.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">0.00</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">MX01QC000000</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|QUALITAS CONTROLADORA SAB</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.MXN contextRef="FIM_T32015_V-87152088_da">MXN</dgi-lc-int:Xcode_ISO4217.MXN>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">0.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">0.00</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">100666.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">1.85</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">PTSON0AM0001</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|SONAE</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_T32015_V-87152088_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">181929.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">3.35</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">0.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">0.00</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">PTSNC0AM0006</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|SONAECOM SGPS S.A</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_T32015_V-87152088_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">169421.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">3.12</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">52742.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">0.97</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">US87936R1068</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|TELECOMINICACOES DE SP- ADR</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.USD contextRef="FIM_T32015_V-87152088_da">USD</dgi-lc-int:Xcode_ISO4217.USD>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">25241.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">0.46</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">38615.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">0.71</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizada>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">GB0008847096</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Acciones|TESCO PLC</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.GBP contextRef="FIM_T32015_V-87152088_da">GBP</dgi-lc-int:Xcode_ISO4217.GBP>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">110743.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">2.04</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">14863.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">0.27</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizada>
+<iic-com:InversionesFinancierasRVCotizadaTotal>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">3246596.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">59.78</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">1057685.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">19.42</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRVCotizadaTotal>
+<iic-com:InversionesFinancierasRV>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">3246596.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">59.78</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">1057685.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">19.42</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasRV>
+<iic-com:InversionesFinancierasIIC>
+<iic-com:CodigoISIN contextRef="FIM_T32015_V-87152088_ia">LU0454363739</iic-com:CodigoISIN>
+<iic-com:InversionesFinancierasDescripcion contextRef="FIM_T32015_V-87152088_ia">Participaciones|UBS - GLOBAL ASSET MGNT</iic-com:InversionesFinancierasDescripcion>
+<dgi-lc-int:Xcode_ISO4217.EUR contextRef="FIM_T32015_V-87152088_da">EUR</dgi-lc-int:Xcode_ISO4217.EUR>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">494744.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">9.11</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">494809.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">9.08</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasIIC>
+<iic-com:InversionesFinancierasIICTotal>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">494744.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">9.11</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">494809.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">9.08</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasIICTotal>
+<iic-com:InversionesFinancierasTotalInversion>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">3741340.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">68.89</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">1552494.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">28.50</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasTotalInversion>
+</iic-com:InversionesFinancierasExterior>
+<iic-com:InversionesFinancierasTotal>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">4476433.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">82.43</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasImporte>
+<iic-com:InversionesFinancierasValor decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="euro">4504900.00</iic-com:InversionesFinancierasValor>
+<iic-com:InversionesFinancierasPorcentaje decimals="2" contextRef="FIM_T32015_V-87152088_ipp" unitRef="pure">82.70</iic-com:InversionesFinancierasPorcentaje>
+</iic-com:InversionesFinancierasImporte>
+</iic-com:InversionesFinancierasTotal>
+<iic-com:ProductosEstructurados decimals="2" contextRef="FIM_T32015_V-87152088_ia" unitRef="pure">0.00</iic-com:ProductosEstructurados>
+</iic-com:InversionesFinancierasValorEstimado>
+<iic-com:DistribucionInversionesFinancieras>
+<iic-com:FicheroAdjunto>
+<iic-com:NombreFicheroAdjunto contextRef="FIM_T32015_V-87152088_da">Distribucion1.png</iic-com:NombreFicheroAdjunto>
+<iic-com:TipoMimeFicheroAdjunto contextRef="FIM_T32015_V-87152088_da">png</iic-com:TipoMimeFicheroAdjunto>
+<iic-com:ContenidoFicheroAdjunto contextRef="FIM_T32015_V-87152088_da">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</iic-com:ContenidoFicheroAdjunto>
+</iic-com:FicheroAdjunto>
+<iic-com:FicheroAdjunto>
+<iic-com:NombreFicheroAdjunto contextRef="FIM_T32015_V-87152088_da">Distribucion2.png</iic-com:NombreFicheroAdjunto>
+<iic-com:TipoMimeFicheroAdjunto contextRef="FIM_T32015_V-87152088_da">png</iic-com:TipoMimeFicheroAdjunto>
+<iic-com:ContenidoFicheroAdjunto contextRef="FIM_T32015_V-87152088_da">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</iic-com:ContenidoFicheroAdjunto>
+</iic-com:FicheroAdjunto>
+<iic-com:FicheroAdjunto>
+<iic-com:NombreFicheroAdjunto contextRef="FIM_T32015_V-87152088_da">Distribucion3.png</iic-com:NombreFicheroAdjunto>
+<iic-com:TipoMimeFicheroAdjunto contextRef="FIM_T32015_V-87152088_da">png</iic-com:TipoMimeFicheroAdjunto>
+<iic-com:ContenidoFicheroAdjunto contextRef="FIM_T32015_V-87152088_da">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</iic-com:ContenidoFicheroAdjunto>
+</iic-com:FicheroAdjunto>
+</iic-com:DistribucionInversionesFinancieras>
+<iic-com:OperativaDerivadosPosiciones>
+<iic-com:OperativaDerivadosObligacionesRV>
+<iic-com:OperativaDerivadosSubyacente contextRef="FIM_T32015_V-87152088_ia">DJ EUROSTOXX 50</iic-com:OperativaDerivadosSubyacente>
+<iic-com:OperativaDerivadosInstrumento contextRef="FIM_T32015_V-87152088_ia">Compra Futuro|DJ EUROSTOXX 50|10|</iic-com:OperativaDerivadosInstrumento>
+<iic-com:OperativaDerivadosObligacionesRVImporte decimals="0" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">884800</iic-com:OperativaDerivadosObligacionesRVImporte>
+<iic-com:XCode_OperativaDerivadosObjetivo_02 contextRef="FIM_T32015_V-87152088_ia">02</iic-com:XCode_OperativaDerivadosObjetivo_02>
+</iic-com:OperativaDerivadosObligacionesRV>
+<iic-com:OperativaDerivadosObligacionesRV>
+<iic-com:OperativaDerivadosSubyacente contextRef="FIM_T32015_V-87152088_ia">STOXX EUROPE 600 INDEX</iic-com:OperativaDerivadosSubyacente>
+<iic-com:OperativaDerivadosInstrumento contextRef="FIM_T32015_V-87152088_ia">Compra Futuro|STOXX EUROPE 600 INDEX|50|</iic-com:OperativaDerivadosInstrumento>
+<iic-com:OperativaDerivadosObligacionesRVImporte decimals="0" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">386650</iic-com:OperativaDerivadosObligacionesRVImporte>
+<iic-com:XCode_OperativaDerivadosObjetivo_02 contextRef="FIM_T32015_V-87152088_ia">02</iic-com:XCode_OperativaDerivadosObjetivo_02>
+</iic-com:OperativaDerivadosObligacionesRV>
+<iic-com:OperativaDerivadosObligacionesRVImporteTotal decimals="0" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">1271450</iic-com:OperativaDerivadosObligacionesRVImporteTotal>
+<iic-com:OperativaDerivadosObligacionesTipoCambio>
+<iic-com:OperativaDerivadosSubyacente contextRef="FIM_T32015_V-87152088_ia">EURO- DOLAR</iic-com:OperativaDerivadosSubyacente>
+<iic-com:OperativaDerivadosInstrumento contextRef="FIM_T32015_V-87152088_ia">Compra Futuro|EURO- DOLAR|125000|</iic-com:OperativaDerivadosInstrumento>
+<iic-com:OperativaDerivadosObligacionesTipoCambioImporte decimals="0" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">124961</iic-com:OperativaDerivadosObligacionesTipoCambioImporte>
+<iic-com:XCode_OperativaDerivadosObjetivo_01 contextRef="FIM_T32015_V-87152088_ia">01</iic-com:XCode_OperativaDerivadosObjetivo_01>
+</iic-com:OperativaDerivadosObligacionesTipoCambio>
+<iic-com:OperativaDerivadosObligacionesTipoCambioImporteTotal decimals="0" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">124961</iic-com:OperativaDerivadosObligacionesTipoCambioImporteTotal>
+<iic-com:OperativaDerivadosObligacionesImporteTotal decimals="0" contextRef="FIM_T32015_V-87152088_ia" unitRef="euro">1396411</iic-com:OperativaDerivadosObligacionesImporteTotal>
+</iic-com:OperativaDerivadosPosiciones>
+</iic-fim:InversionesFinancierasFIM>
+<iic-fim:HechosRelevantesFIM>
+<iic-com-fon:HechoRelevanteSuspensionSuscripciones contextRef="FIM_T32015_V-87152088_da">false</iic-com-fon:HechoRelevanteSuspensionSuscripciones>
+<iic-com-fon:HechoRelevanteReanudacionSuscripciones contextRef="FIM_T32015_V-87152088_da">false</iic-com-fon:HechoRelevanteReanudacionSuscripciones>
+<iic-com-fon:HechoRelevanteReembolsoPatrimonio contextRef="FIM_T32015_V-87152088_da">false</iic-com-fon:HechoRelevanteReembolsoPatrimonio>
+<iic-com:HechoRelevanteEndeudamiento contextRef="FIM_T32015_V-87152088_da">false</iic-com:HechoRelevanteEndeudamiento>
+<iic-com-fon:HechoRelevanteCambioGestora contextRef="FIM_T32015_V-87152088_da">false</iic-com-fon:HechoRelevanteCambioGestora>
+<iic-com-fon:HechoRelevanteCambioDepositaria contextRef="FIM_T32015_V-87152088_da">false</iic-com-fon:HechoRelevanteCambioDepositaria>
+<iic-com-fon:HechoRelevanteCambioControlGestora contextRef="FIM_T32015_V-87152088_da">false</iic-com-fon:HechoRelevanteCambioControlGestora>
+<iic-com:HechoRelevanteCambioEsencial contextRef="FIM_T32015_V-87152088_da">false</iic-com:HechoRelevanteCambioEsencial>
+<iic-com-fon:HechoRelevanteAutorizacionFusion contextRef="FIM_T32015_V-87152088_da">false</iic-com-fon:HechoRelevanteAutorizacionFusion>
+<iic-com:HechoRelevanteOtros contextRef="FIM_T32015_V-87152088_da">true</iic-com:HechoRelevanteOtros>
+</iic-fim:HechosRelevantesFIM>
+<iic-com:ExplicacionHechosRelevantes contextRef="FIM_T32015_V-87152088_da">J.) Con fecha 18&#47;09&#47;15 se ha actualizado el folleto y el documento con los datos fundamentales para el inversor de ABACO RENTA VARIABLE GLOBAL, FI, al objeto de cambiar su vocaci&#243;n inversora con la consiguiente modificaci&#243;n de su pol&#237;tica de inversi&#243;n.</iic-com:ExplicacionHechosRelevantes>
+<iic-fim:OperacionesVinculadasFIM>
+<iic-com-fon:OperacionesVinculadasParticipesSignificativos contextRef="FIM_T32015_V-87152088_da">true</iic-com-fon:OperacionesVinculadasParticipesSignificativos>
+<iic-com-fon:OperacionesVinculadasModificacionesReglamento contextRef="FIM_T32015_V-87152088_da">false</iic-com-fon:OperacionesVinculadasModificacionesReglamento>
+<iic-com:OperacionesVinculadasMismoGrupoDepoGest contextRef="FIM_T32015_V-87152088_da">false</iic-com:OperacionesVinculadasMismoGrupoDepoGest>
+<iic-com:OperacionesVinculadasOperacionesConDepositario contextRef="FIM_T32015_V-87152088_da">true</iic-com:OperacionesVinculadasOperacionesConDepositario>
+<iic-com:OperacionesVinculadasAvales contextRef="FIM_T32015_V-87152088_da">false</iic-com:OperacionesVinculadasAvales>
+<iic-com:OperacionesVinculadasContrapartidaEnGrupo contextRef="FIM_T32015_V-87152088_da">true</iic-com:OperacionesVinculadasContrapartidaEnGrupo>
+<iic-com:OperacionesVinculadasIngresosEnElGrupo contextRef="FIM_T32015_V-87152088_da">false</iic-com:OperacionesVinculadasIngresosEnElGrupo>
+<iic-com:OperacionesVinculadasOtros contextRef="FIM_T32015_V-87152088_da">false</iic-com:OperacionesVinculadasOtros>
+</iic-fim:OperacionesVinculadasFIM>
+<iic-com:AnexoOperacionesVinculadas contextRef="FIM_T32015_V-87152088_da">a.) Existe un Part&#237;cipe significativo con un volumen de inversi&#243;n de 1.160.701,69 euros que supone el 21,37% sobre el patrimonio de la IIC. 
+
+
+d). El d&#237;a 31&#47;08&#47;2015 hemos realizado una compra de 1000 titulos de Acc Qualitas Controladora SAB a un precio de 23,17? para Abaco Renta Variable Global con UBS como intermediario.
+
+f.). El d&#237;a 30&#47;09&#47;2015 hemos realizado un REPO (BONO ESTADO ESPANA 4.5% 31&#47;01&#47;2018) por un nominal de 250.000 eur y fecha de vencimiento 07&#47;10&#47;2015 con UBS como intermediario.</iic-com:AnexoOperacionesVinculadas>
+<iic-com:ExplicacionInformePeriodico contextRef="FIM_T32015_V-87152088_da">Durante el tercer cuatrimestre las bolsas han sufrido importantes ca&#237;das. El Ibex acumula una ca&#237;da en el trimestre del (-11,2%), el Eurostoxx (-9,4%), el &#237;ndice Dax alem&#225;n (-11,7%) y el S&#38;P un (-6,9%). Se han visto reflejadas tambi&#233;n las ca&#237;das en nuestras principales posiciones: Berkshire Hathaway (-4%), Fairfax Financial Holdings (-8%), AIG (-8%) y Lloyds Group (-11%). 
+
+La desaceleraci&#243;n del crecimiento chino ha provocado gran incertidumbre y volatilidad en los mercados. La econom&#237;a china ha pasado de estar orientada al consumo de capital y la exportaci&#243;n a estar dominada por el consumo y los servicios. Ello hace necesarios importantes cambios estructurales. Sin embargo, creemos que la tendencia del crecimiento a largo plazo es positiva dado el nivel educativo y la capacidad de desarrollo del propio pa&#237;s.
+
+En cuanto a Estados Unidos, la FED ha decidido retrasar la subida de tipos que se esperaba para el mes de septiembre. Estamos preparados para una subida de tipos antes de que finalice el a&#241;o que afectar&#237;a principalmente al mercado de divisas y al de renta fija. 
+
+Continuamos con un entorno de tipos de inter&#233;s bajos, con el bono alem&#225;n a 10 a&#241;os a 0,57% y el bono americano a 10 a&#241;os a 2,03%. 
+
+En cuanto a renta variable, hemos aprovechado las fuertes correcciones burs&#225;tiles para fortalecer nuestras posiciones en empresas de calidad que se han visto afectadas sin motivos fundamentales en los &#250;ltimos meses. Consideramos que la volatilidad y los bajos precios representan una oportunidad para adquirir valores que conocemos y tienen una gran calidad. Aunque en el corto plazo nuestros resultados se puedan ver afectados, en el medio largo plazo, confiamos en que los valores que estamos adquiriendo deber&#237;an alcanzar valoraciones m&#225;s elevadas y estables.
+
+Nuestra estrategia por lo tanto, se basar&#225; en encontrar valores con poco riesgo y exposici&#243;n a los problemas de pa&#237;ses emergentes y de China, buscando valores de calidad castigados por la situaci&#243;n actual que conocemos en profundidad y cuyas bajos precios representan una oportunidad.</iic-com:ExplicacionInformePeriodico>
+<iic-com:AdvertenciasCNMV contextRef="FIM_T32015_V-87152088_da">No aplica</iic-com:AdvertenciasCNMV>
+</iic-fim:DatosFondoCompartimentoFIM>
+</iic-fim:InformeFIM>
+<iic-ges:ComparativaRentabilidadMedia>
+<iic-ges:ComparativaVocacionMonetarioCortoPlazoPatrimonio decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="euro">0</iic-ges:ComparativaVocacionMonetarioCortoPlazoPatrimonio>
+<iic-ges:ComparativaVocacionMonetarioCortoPlazoParticipes decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-ges:ComparativaVocacionMonetarioCortoPlazoParticipes>
+<iic-ges:ComparativaVocacionMonetarioCortoPlazoRentabilidad decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.00</iic-ges:ComparativaVocacionMonetarioCortoPlazoRentabilidad>
+<iic-ges:ComparativaVocacionMonetarioPatrimonio decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="euro">0</iic-ges:ComparativaVocacionMonetarioPatrimonio>
+<iic-ges:ComparativaVocacionMonetarioParticipes decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-ges:ComparativaVocacionMonetarioParticipes>
+<iic-ges:ComparativaVocacionMonetarioRentabilidad decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.00</iic-ges:ComparativaVocacionMonetarioRentabilidad>
+<iic-ges:ComparativaVocacionRentaFijaEuroPatrimonio decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="euro">0</iic-ges:ComparativaVocacionRentaFijaEuroPatrimonio>
+<iic-ges:ComparativaVocacionRentaFijaEuroParticipes decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-ges:ComparativaVocacionRentaFijaEuroParticipes>
+<iic-ges:ComparativaVocacionRentaFijaEuroRentabilidad decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.00</iic-ges:ComparativaVocacionRentaFijaEuroRentabilidad>
+<iic-ges:ComparativaVocacionRentaFijaInternacionalPatrimonio decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="euro">0</iic-ges:ComparativaVocacionRentaFijaInternacionalPatrimonio>
+<iic-ges:ComparativaVocacionRentaFijaInternacionalParticipes decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-ges:ComparativaVocacionRentaFijaInternacionalParticipes>
+<iic-ges:ComparativaVocacionRentaFijaInternacionalRentabilidad decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.00</iic-ges:ComparativaVocacionRentaFijaInternacionalRentabilidad>
+<iic-ges:ComparativaVocacionMixtoEuroPatrimonio decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="euro">0</iic-ges:ComparativaVocacionMixtoEuroPatrimonio>
+<iic-ges:ComparativaVocacionMixtoEuroParticipes decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-ges:ComparativaVocacionMixtoEuroParticipes>
+<iic-ges:ComparativaVocacionMixtoEuroRentabilidad decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.00</iic-ges:ComparativaVocacionMixtoEuroRentabilidad>
+<iic-ges:ComparativaVocacionMixtoInternacionalPatrimonio decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="euro">19395126</iic-ges:ComparativaVocacionMixtoInternacionalPatrimonio>
+<iic-ges:ComparativaVocacionMixtoInternacionalParticipes decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">167</iic-ges:ComparativaVocacionMixtoInternacionalParticipes>
+<iic-ges:ComparativaVocacionMixtoInternacionalRentabilidad decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">-4.20</iic-ges:ComparativaVocacionMixtoInternacionalRentabilidad>
+<iic-ges:ComparativaVocacionRentaVariableMixtaEuroPatrimonio decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="euro">0</iic-ges:ComparativaVocacionRentaVariableMixtaEuroPatrimonio>
+<iic-ges:ComparativaVocacionRentaVariableMixtaEuroParticipes decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-ges:ComparativaVocacionRentaVariableMixtaEuroParticipes>
+<iic-ges:ComparativaVocacionRentaVariableMixtaEuroRentabilidad decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.00</iic-ges:ComparativaVocacionRentaVariableMixtaEuroRentabilidad>
+<iic-ges:ComparativaVocacionRentaVariableMixtaInternacionalPatrimonio decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="euro">0</iic-ges:ComparativaVocacionRentaVariableMixtaInternacionalPatrimonio>
+<iic-ges:ComparativaVocacionRentaVariableMixtaInternacionalParticipes decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-ges:ComparativaVocacionRentaVariableMixtaInternacionalParticipes>
+<iic-ges:ComparativaVocacionRentaVariableMixtaInternacionalRentabilidad decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.00</iic-ges:ComparativaVocacionRentaVariableMixtaInternacionalRentabilidad>
+<iic-ges:ComparativaVocacionRentaVariableEuroPatrimonio decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="euro">0</iic-ges:ComparativaVocacionRentaVariableEuroPatrimonio>
+<iic-ges:ComparativaVocacionRentaVariableEuroParticipes decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-ges:ComparativaVocacionRentaVariableEuroParticipes>
+<iic-ges:ComparativaVocacionRentaVariableEuroRentabilidad decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.00</iic-ges:ComparativaVocacionRentaVariableEuroRentabilidad>
+<iic-ges:ComparativaVocacionRentaVariableInternacionalPatrimonio decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="euro">0</iic-ges:ComparativaVocacionRentaVariableInternacionalPatrimonio>
+<iic-ges:ComparativaVocacionRentaVariableInternacionalParticipes decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-ges:ComparativaVocacionRentaVariableInternacionalParticipes>
+<iic-ges:ComparativaVocacionRentaVariableInternacionalRentabilidad decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.00</iic-ges:ComparativaVocacionRentaVariableInternacionalRentabilidad>
+<iic-ges:ComparativaVocacionIICGestionReferenciadaPatrimonio decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="euro">0</iic-ges:ComparativaVocacionIICGestionReferenciadaPatrimonio>
+<iic-ges:ComparativaVocacionIICGestionReferenciadaParticipes decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-ges:ComparativaVocacionIICGestionReferenciadaParticipes>
+<iic-ges:ComparativaVocacionIICGestionReferenciadaRentabilidad decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.00</iic-ges:ComparativaVocacionIICGestionReferenciadaRentabilidad>
+<iic-ges:ComparativaVocacionGarantizadoRendimientoFijoPatrimonio decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="euro">0</iic-ges:ComparativaVocacionGarantizadoRendimientoFijoPatrimonio>
+<iic-ges:ComparativaVocacionGarantizadoRendimientoFijoParticipes decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-ges:ComparativaVocacionGarantizadoRendimientoFijoParticipes>
+<iic-ges:ComparativaVocacionGarantizadoRendimientoFijoRentabilidad decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.00</iic-ges:ComparativaVocacionGarantizadoRendimientoFijoRentabilidad>
+<iic-ges:ComparativaVocacionGarantizadoRendimientoVariablePatrimonio decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="euro">0</iic-ges:ComparativaVocacionGarantizadoRendimientoVariablePatrimonio>
+<iic-ges:ComparativaVocacionGarantizadoRendimientoVariableParticipes decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-ges:ComparativaVocacionGarantizadoRendimientoVariableParticipes>
+<iic-ges:ComparativaVocacionGarantizadoRendimientoVariableRentabilidad decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.00</iic-ges:ComparativaVocacionGarantizadoRendimientoVariableRentabilidad>
+<iic-ges:ComparativaVocacionGarantiaParcialPatrimonio decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="euro">0</iic-ges:ComparativaVocacionGarantiaParcialPatrimonio>
+<iic-ges:ComparativaVocacionGarantiaParcialParticipes decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-ges:ComparativaVocacionGarantiaParcialParticipes>
+<iic-ges:ComparativaVocacionGarantiaParcialRentabilidad decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.00</iic-ges:ComparativaVocacionGarantiaParcialRentabilidad>
+<iic-ges:ComparativaVocacionRetornoAbsolutoPatrimonio decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="euro">0</iic-ges:ComparativaVocacionRetornoAbsolutoPatrimonio>
+<iic-ges:ComparativaVocacionRetornoAbsolutoParticipes decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-ges:ComparativaVocacionRetornoAbsolutoParticipes>
+<iic-ges:ComparativaVocacionRetornoAbsolutoRentabilidad decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.00</iic-ges:ComparativaVocacionRetornoAbsolutoRentabilidad>
+<iic-ges:ComparativaVocacionGlobalPatrimonio decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="euro">0</iic-ges:ComparativaVocacionGlobalPatrimonio>
+<iic-ges:ComparativaVocacionGlobalParticipes decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0</iic-ges:ComparativaVocacionGlobalParticipes>
+<iic-ges:ComparativaVocacionGlobalRentabilidad decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">0.00</iic-ges:ComparativaVocacionGlobalRentabilidad>
+<iic-ges:ComparativaVocacionTotalPatrimonio decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="euro">19395126</iic-ges:ComparativaVocacionTotalPatrimonio>
+<iic-ges:ComparativaVocacionTotalParticipes decimals="0" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">167</iic-ges:ComparativaVocacionTotalParticipes>
+<iic-ges:ComparativaVocacionTotalRentabilidad decimals="2" contextRef="FIM_T32015_V-87152088_da" unitRef="pure">-4.20</iic-ges:ComparativaVocacionTotalRentabilidad>
+</iic-ges:ComparativaRentabilidadMedia>
+</xbrli:xbrl>
